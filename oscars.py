@@ -7,6 +7,12 @@ TWITTER_CONSUMER_SECRET = os.environ['TWITTER_CONSUMER_SECRET']
 TWITTER_ACCESS_TOKEN = os.environ['TWITTER_ACCESS_TOKEN'] 
 TWITTER_ACCESS_SECRET = os.environ['TWITTER_ACCESS_SECRET'] 
 
+def getOAuth():
+    return OAuth(TWITTER_ACCESS_TOKEN,
+                 TWITTER_ACCESS_SECRET,
+                 TWITTER_CONSUMER_KEY, 
+                 TWITTER_CONSUMER_SECRET)
+
 def twitConn():
     """Gets a twitter connection object.
 
@@ -15,11 +21,12 @@ def twitConn():
     conn : Twitter
         A twitter connection object
     """
-    t = Twitter(auth=OAuth(TWITTER_ACCESS_TOKEN,
-                           TWITTER_ACCESS_SECRET,
-                           TWITTER_CONSUMER_KEY, 
-                           TWITTER_CONSUMER_SECRET))
-    return t
+    return Twitter(auth=getOAuth())
+
+def twitStreamingConn():
+    """Gets a twitter streaming connection object.
+    """
+    return TwitterStream(auth=getOAuth())
 
 def statusesForQuery(query, count=100):
     """Returns up to 100 statuses for a query via the Search API
@@ -58,8 +65,12 @@ def extractTextFromStatusList(statuses):
     """
     return [x['text'] for x in statuses]
 
+def stream(filterWords):
+    t = twitStreamingConn()
+    return t.statuses.sample(filter=filterWords)
+
+
 
 # Remove comment for example usage
 # print(extractTextFromStatusList(statusesForQuery('#Oscars')))
-
 
