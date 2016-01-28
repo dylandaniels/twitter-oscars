@@ -67,7 +67,7 @@ def extractTextFromStatusList(statuses):
 
 def stream(filterWords):
     t = twitStreamingConn()
-    return t.statuses.sample(filter=filterWords)
+    return t.statuses.filter(track=filterWords)
 
 
 
