@@ -1,31 +1,13 @@
-"The Revenant"
-"The Revenant Movie"
-"Revenant Movie"
-"the revenant"
-"the revenant movie"
-"the revenant"
-"#TheRevenant"
-"#TheRevenantMovie"
-"#RevenantMovie"
-"#therevenant"
-"#therevenantmovie"
-"#therevenant"
-"@RevenantMovie"
-"Leo DiCaprio"
-"leo dicaprio"
-"#LeoDiCaprio"
-"#leodicaprio"
-"Leonardo DiCaprio"
-"leonardo dicaprio"
-"#LeonardoDiCaprio"
-"#leonardodicaprio"
-"@LeoDiCaprio"
-"Tom Hardy"
-"tom hardy"
-"#TomHardy"
-"#tomhardy"
-"Will Poulter"
-"will poulter"
-"#WillPoulter"
-"#willpoulter"
-"@PoulterWill"
+The Revenant
+The Revenant Movie
+Revenant Movie
+the revenant
+the revenant movie
+the revenant
+#TheRevenant
+#TheRevenantMovie
+#RevenantMovie
+#therevenant
+#therevenantmovie
+#therevenant
+@RevenantMovie

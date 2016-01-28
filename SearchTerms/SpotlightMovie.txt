@@ -1,38 +1,11 @@
-"Spotlight Movie"
-"Spotlight The Movie"
-"Spotlight the Movie"
-"spotlight movie"
-"spotlight the movie"
-"#SpotlightMovie"
-"#spotlightmovie"
-"#SpotlightTheMovie"
-"#SpotlighttheMovie"
-"#spotlightthemovie"
-"@SpotlightMovie"
-"Mark Ruffalo"
-"mark ruffalo"
-"#MarkRuffalo"
-"#markruffalo"
-"@MarkRuffalo"
-"Michael Keaton"
-"michael keaton"
-"#MichaelKeaton"
-"#michaelkeaton"
-"@MichaelKeaton"
-"Rachel McAdams"
-"rachel mcadams"
-"#RachelMcAdams"
-"#rachelmcadams"
-"Liev Schreiber"
-"liev schreiber"
-"#LievSchreiber"
-"#lievschreiber"
-"@LievSchreiber"
-"John Slattery"
-"john slattery"
-"#JohnSlattery"
-"#johnslattery"
-"Stanley Tucci"
-"stanley tucci"
-"#StanleyTucci"
-"#stanleytucci"
+Spotlight Movie
+Spotlight The Movie
+Spotlight the Movie
+spotlight movie
+spotlight the movie
+#SpotlightMovie
+#spotlightmovie
+#SpotlightTheMovie
+#SpotlighttheMovie
+#spotlightthemovie
+@SpotlightMovie

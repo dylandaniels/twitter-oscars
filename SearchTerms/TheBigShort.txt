@@ -1,27 +1,9 @@
-"@thebigshort"
-"#TheBigShort"
-"#thebigshort"
-"#bigshortmovie"
-"#thebigshortmovie"
-"#TheBigShortMovie"
-"#BigShortMovie"
-"The Big Short"
-"The Big Short Movie"
-"Christian Bale"
-"#ChristianBale"
-"#christianbale"
-"christian bale"
-"Steve Carell"
-"steve carell"
-"#SteveCarell"
-"#stevecarell"
-"@SteveCarell"
-"Ryan Gosling"
-"ryan gosling"
-"#RyanGosling"
-"#ryangosling"
-"@RyanGosling"
-"Brad Pitt"
-"brad pitt"
-"#BradPitt"
-"#bradpitt"
+@thebigshort
+#TheBigShort
+#thebigshort
+#bigshortmovie
+#thebigshortmovie
+#TheBigShortMovie
+#BigShortMovie
+The Big Short
+The Big Short Movie

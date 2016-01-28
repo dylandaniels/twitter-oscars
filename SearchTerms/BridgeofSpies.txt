@@ -1,14 +1,5 @@
-"Bridge of Spies"
-"@BridgeofSpies"
-"#BridgeofSpies"
-"#bridgeofspies"
-"#BridgeOfSpies"
-"Tom Hanks"
-"tom hanks"
-"@tomhanks"
-"#TomHanks"
-"#tomhanks"
-"Mark Rylance"
-"mark rylance"
-"#MarkRylance"
-"#markrylance"
+Bridge of Spies
+@BridgeofSpies
+#BridgeofSpies
+#bridgeofspies
+#BridgeOfSpies
