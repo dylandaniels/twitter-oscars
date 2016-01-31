@@ -1,0 +1,346 @@
+[
+    {
+        "contributors_enabled": false, 
+        "created_at": "Fri Apr 25 01:41:06 +0000 2014", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "From director George Miller, #MadMax: Fury Road starring Tom Hardy, @CharlizeAfrica and @NicholasHoult. Own #MadMax: Fury Road on Digital HD & on Blu-ray now.", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/MadMaxMovie", 
+                        "expanded_url": "https://www.facebook.com/MadMaxMovie", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/h5B6rVyub1"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 429, 
+        "follow_request_sent": false, 
+        "followers_count": 41737, 
+        "following": false, 
+        "friends_count": 10, 
+        "geo_enabled": true, 
+        "has_extended_profile": true, 
+        "id": 2462483304, 
+        "id_str": "2462483304", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": "en", 
+        "listed_count": 301, 
+        "location": "", 
+        "name": "Mad Max Movie", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684791224490799105/Zs6_CJxv.jpg", 
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684791224490799105/Zs6_CJxv.jpg", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2462483304/1452023194", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582613934814818304/M2fWBI9t_normal.png", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582613934814818304/M2fWBI9t_normal.png", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "MadMaxMovie", 
+        "status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Jan 30 08:04:20 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            75, 
+                            85
+                        ], 
+                        "text": "ACEEddies"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/DP3M9KpWcY", 
+                        "expanded_url": "http://twitter.com/jamiecobbeditor/status/693328265054801920/photo/1", 
+                        "id": 693328264899665920, 
+                        "id_str": "693328264899665920", 
+                        "indices": [
+                            86, 
+                            109
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 768, 
+                                "resize": "fit", 
+                                "w": 1024
+                            }, 
+                            "medium": {
+                                "h": 450, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 255, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "source_status_id": 693328265054801920, 
+                        "source_status_id_str": "693328265054801920", 
+                        "source_user_id": 216093201, 
+                        "source_user_id_str": "216093201", 
+                        "type": "photo", 
+                        "url": "https://t.co/DP3M9KpWcY"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 216093201, 
+                        "id_str": "216093201", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Jamie Cobb", 
+                        "screen_name": "jamiecobbeditor"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/DP3M9KpWcY", 
+                        "expanded_url": "http://twitter.com/jamiecobbeditor/status/693328265054801920/photo/1", 
+                        "id": 693328264899665920, 
+                        "id_str": "693328264899665920", 
+                        "indices": [
+                            86, 
+                            109
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 768, 
+                                "resize": "fit", 
+                                "w": 1024
+                            }, 
+                            "medium": {
+                                "h": 450, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 255, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "source_status_id": 693328265054801920, 
+                        "source_status_id_str": "693328265054801920", 
+                        "source_user_id": 216093201, 
+                        "source_user_id_str": "216093201", 
+                        "type": "photo", 
+                        "url": "https://t.co/DP3M9KpWcY"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 693343977894838272, 
+            "id_str": "693343977894838272", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 30, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Sat Jan 30 07:01:54 +0000 2016", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                54, 
+                                64
+                            ], 
+                            "text": "ACEEddies"
+                        }
+                    ], 
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/DP3M9KpWcY", 
+                            "expanded_url": "http://twitter.com/jamiecobbeditor/status/693328265054801920/photo/1", 
+                            "id": 693328264899665920, 
+                            "id_str": "693328264899665920", 
+                            "indices": [
+                                65, 
+                                88
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 768, 
+                                    "resize": "fit", 
+                                    "w": 1024
+                                }, 
+                                "medium": {
+                                    "h": 450, 
+                                    "resize": "fit", 
+                                    "w": 600
+                                }, 
+                                "small": {
+                                    "h": 255, 
+                                    "resize": "fit", 
+                                    "w": 340
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/DP3M9KpWcY"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/DP3M9KpWcY", 
+                            "expanded_url": "http://twitter.com/jamiecobbeditor/status/693328265054801920/photo/1", 
+                            "id": 693328264899665920, 
+                            "id_str": "693328264899665920", 
+                            "indices": [
+                                65, 
+                                88
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/CZ8yYi4VIAADgRX.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 768, 
+                                    "resize": "fit", 
+                                    "w": 1024
+                                }, 
+                                "medium": {
+                                    "h": 450, 
+                                    "resize": "fit", 
+                                    "w": 600
+                                }, 
+                                "small": {
+                                    "h": 255, 
+                                    "resize": "fit", 
+                                    "w": 340
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "https://t.co/DP3M9KpWcY"
+                        }
+                    ]
+                }, 
+                "favorite_count": 54, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 693328265054801920, 
+                "id_str": "693328265054801920", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "place": {
+                    "attributes": {}, 
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    -118.4273439, 
+                                    34.052559
+                                ], 
+                                [
+                                    -118.371934, 
+                                    34.052559
+                                ], 
+                                [
+                                    -118.371934, 
+                                    34.112434
+                                ], 
+                                [
+                                    -118.4273439, 
+                                    34.112434
+                                ]
+                            ]
+                        ], 
+                        "type": "Polygon"
+                    }, 
+                    "contained_within": [], 
+                    "country": "United States", 
+                    "country_code": "US", 
+                    "full_name": "Beverly Hills, CA", 
+                    "id": "741e9df4d2522275", 
+                    "name": "Beverly Hills", 
+                    "place_type": "city", 
+                    "url": "https://api.twitter.com/1.1/geo/id/741e9df4d2522275.json"
+                }, 
+                "possibly_sensitive": false, 
+                "retweet_count": 30, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Margret Sixel wins best feature editing for Fury Road #ACEEddies https://t.co/DP3M9KpWcY", 
+                "truncated": false
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @jamiecobbeditor: Margret Sixel wins best feature editing for Fury Road #ACEEddies https://t.co/DP3M9KpWcY", 
+            "truncated": false
+        }, 
+        "statuses_count": 757, 
+        "time_zone": null, 
+        "url": "https://t.co/h5B6rVyub1", 
+        "utc_offset": null, 
+        "verified": true
+    }
+]

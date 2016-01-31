@@ -1,0 +1,1935 @@
+[
+    [
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Jan 30 04:51:50 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQJyZF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 693295532408700928, 
+            "id_str": "693295532408700928", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQJyZF", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri Jan 29 15:51:50 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQJyZF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 693099239392579586, 
+            "id_str": "693099239392579586", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQJyZF", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri Jan 29 11:51:49 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQrXB5"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 693038837610614784, 
+            "id_str": "693038837610614784", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQrXB5", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri Jan 29 02:51:50 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQJyZF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692902946548355073, 
+            "id_str": "692902946548355073", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQJyZF", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Jan 28 22:51:55 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQrXB5"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692842567356911620, 
+            "id_str": "692842567356911620", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQrXB5", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Jan 28 14:31:38 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            135, 
+                            140
+                        ], 
+                        "text": "MartianMovie"
+                    }, 
+                    {
+                        "indices": [
+                            139, 
+                            140
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "westword.com/arts/the-marti\u2026", 
+                        "expanded_url": "http://www.westword.com/arts/the-martian-vs-mad-max-science-fictions-dichotomy-reaches-the-oscars-7554632", 
+                        "indices": [
+                            90, 
+                            113
+                        ], 
+                        "url": "https://t.co/l35k3S3eJD"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 171206498, 
+                        "id_str": "171206498", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Westword Arts", 
+                        "screen_name": "westwordculture"
+                    }, 
+                    {
+                        "id": 171206498, 
+                        "id_str": "171206498", 
+                        "indices": [
+                            118, 
+                            134
+                        ], 
+                        "name": "Westword Arts", 
+                        "screen_name": "westwordculture"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692716670511640576, 
+            "id_str": "692716670511640576", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Thu Jan 28 14:23:36 +0000 2016", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                114, 
+                                127
+                            ], 
+                            "text": "MartianMovie"
+                        }, 
+                        {
+                            "indices": [
+                                128, 
+                                140
+                            ], 
+                            "text": "MadMaxMovie"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [
+                        {
+                            "display_url": "westword.com/arts/the-marti\u2026", 
+                            "expanded_url": "http://www.westword.com/arts/the-martian-vs-mad-max-science-fictions-dichotomy-reaches-the-oscars-7554632", 
+                            "indices": [
+                                69, 
+                                92
+                            ], 
+                            "url": "https://t.co/l35k3S3eJD"
+                        }
+                    ], 
+                    "user_mentions": [
+                        {
+                            "id": 171206498, 
+                            "id_str": "171206498", 
+                            "indices": [
+                                97, 
+                                113
+                            ], 
+                            "name": "Westword Arts", 
+                            "screen_name": "westwordculture"
+                        }
+                    ]
+                }, 
+                "favorite_count": 0, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 692714647552524288, 
+                "id_str": "692714647552524288", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 1, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+                "text": "The Martian Vs. Mad Max: Science Fiction's Dichotomy and the Oscars  https://t.co/l35k3S3eJD via @westwordculture #MartianMovie #MadMaxMovie", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Mon Jul 26 20:32:08 +0000 2010", 
+                    "default_profile": false, 
+                    "default_profile_image": false, 
+                    "description": "Tweets on city culture in Denver, Colorado. @DenverWestword's artsy, smart-ass roommate.", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "blogs.westword.com/showandtell/", 
+                                    "expanded_url": "http://blogs.westword.com/showandtell/", 
+                                    "indices": [
+                                        0, 
+                                        22
+                                    ], 
+                                    "url": "http://t.co/y55ezTNIWh"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 11, 
+                    "follow_request_sent": false, 
+                    "followers_count": 2567, 
+                    "following": false, 
+                    "friends_count": 205, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 171206498, 
+                    "id_str": "171206498", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 121, 
+                    "location": "Denver, Colorado", 
+                    "name": "Westword Arts", 
+                    "notifications": false, 
+                    "profile_background_color": "EE5290", 
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534765299/7802286.87.jpg", 
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534765299/7802286.87.jpg", 
+                    "profile_background_tile": true, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/171206498/1439473557", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/567840695344312320/t-4Pl0_D_normal.png", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/567840695344312320/t-4Pl0_D_normal.png", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "EE5290", 
+                    "profile_sidebar_fill_color": "EE5290", 
+                    "profile_text_color": "000000", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "westwordculture", 
+                    "statuses_count": 7668, 
+                    "time_zone": "Central Time (US & Canada)", 
+                    "url": "http://t.co/y55ezTNIWh", 
+                    "utc_offset": -21600, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://google.com\" rel=\"nofollow\">OscarsPredictor</a>", 
+            "text": "RT @westwordculture: The Martian Vs. Mad Max: Science Fiction's Dichotomy and the Oscars  https://t.co/l35k3S3eJD via @westwordculture #Mar\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Dec 31 03:43:55 +0000 2015", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Tirelessly collecting all tweets #Oscars related on Twitter for machine learning use.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 1, 
+                "follow_request_sent": false, 
+                "followers_count": 550, 
+                "following": false, 
+                "friends_count": 3, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 4660590443, 
+                "id_str": "4660590443", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 145, 
+                "location": "Manhattan, NY", 
+                "name": "Oscar Pitt", 
+                "notifications": false, 
+                "profile_background_color": "131516", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4660590443/1452448500", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/682407468442374145/sDCIL5Bt_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/682407468442374145/sDCIL5Bt_normal.jpg", 
+                "profile_link_color": "009999", 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "oscarspredictor", 
+                "statuses_count": 35737, 
+                "time_zone": null, 
+                "url": null, 
+                "utc_offset": null, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Jan 28 14:23:36 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            114, 
+                            127
+                        ], 
+                        "text": "MartianMovie"
+                    }, 
+                    {
+                        "indices": [
+                            128, 
+                            140
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "westword.com/arts/the-marti\u2026", 
+                        "expanded_url": "http://www.westword.com/arts/the-martian-vs-mad-max-science-fictions-dichotomy-reaches-the-oscars-7554632", 
+                        "indices": [
+                            69, 
+                            92
+                        ], 
+                        "url": "https://t.co/l35k3S3eJD"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 171206498, 
+                        "id_str": "171206498", 
+                        "indices": [
+                            97, 
+                            113
+                        ], 
+                        "name": "Westword Arts", 
+                        "screen_name": "westwordculture"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692714647552524288, 
+            "id_str": "692714647552524288", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "The Martian Vs. Mad Max: Science Fiction's Dichotomy and the Oscars  https://t.co/l35k3S3eJD via @westwordculture #MartianMovie #MadMaxMovie", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Jul 26 20:32:08 +0000 2010", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "Tweets on city culture in Denver, Colorado. @DenverWestword's artsy, smart-ass roommate.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "blogs.westword.com/showandtell/", 
+                                "expanded_url": "http://blogs.westword.com/showandtell/", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/y55ezTNIWh"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 11, 
+                "follow_request_sent": false, 
+                "followers_count": 2567, 
+                "following": false, 
+                "friends_count": 205, 
+                "geo_enabled": true, 
+                "has_extended_profile": false, 
+                "id": 171206498, 
+                "id_str": "171206498", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 121, 
+                "location": "Denver, Colorado", 
+                "name": "Westword Arts", 
+                "notifications": false, 
+                "profile_background_color": "EE5290", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534765299/7802286.87.jpg", 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534765299/7802286.87.jpg", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/171206498/1439473557", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/567840695344312320/t-4Pl0_D_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/567840695344312320/t-4Pl0_D_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "EE5290", 
+                "profile_sidebar_fill_color": "EE5290", 
+                "profile_text_color": "000000", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "westwordculture", 
+                "statuses_count": 7668, 
+                "time_zone": "Central Time (US & Canada)", 
+                "url": "http://t.co/y55ezTNIWh", 
+                "utc_offset": -21600, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Jan 28 07:51:49 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQJyZF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692616049963982849, 
+            "id_str": "692616049963982849", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQJyZF", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Jan 28 05:51:51 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQrXB5"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692585860387082240, 
+            "id_str": "692585860387082240", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQrXB5", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed Jan 27 18:51:49 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQJyZF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692419758982086656, 
+            "id_str": "692419758982086656", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQJyZF", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed Jan 27 06:51:47 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQJyZF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692238554001448960, 
+            "id_str": "692238554001448960", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQJyZF", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Tue Jan 26 17:51:48 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            74, 
+                            86
+                        ], 
+                        "text": "MadMaxMovie"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "inquizie.com/Mad%20Max%20Mo\u2026", 
+                        "expanded_url": "http://inquizie.com/Mad%20Max%20Movie", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "url": "https://t.co/RT8vzQJyZF"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2462483304, 
+                        "id_str": "2462483304", 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "name": "Mad Max Movie", 
+                        "screen_name": "MadMaxMovie"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 692042264672129028, 
+            "id_str": "692042264672129028", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 0, 
+            "retweeted": false, 
+            "source": "<a href=\"http://inquizie.com\" rel=\"nofollow\">INQUIZIE</a>", 
+            "text": "@MadMaxMovie Mad Max Movie See today's top ranked Movies or add your Favs #MadMaxMovie https://t.co/RT8vzQJyZF", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Mon Feb 11 18:22:04 +0000 2013", 
+                "default_profile": true, 
+                "default_profile_image": false, 
+                "description": "SM driven Celeb popularity platform.", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }, 
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "INQUIZIE.com", 
+                                "expanded_url": "http://INQUIZIE.com", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "url": "http://t.co/ksBOerxqTL"
+                            }
+                        ]
+                    }
+                }, 
+                "favourites_count": 10, 
+                "follow_request_sent": false, 
+                "followers_count": 312, 
+                "following": false, 
+                "friends_count": 70, 
+                "geo_enabled": false, 
+                "has_extended_profile": false, 
+                "id": 1169652962, 
+                "id_str": "1169652962", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 104, 
+                "location": "", 
+                "name": "INQUIZIE", 
+                "notifications": false, 
+                "profile_background_color": "C0DEED", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "profile_background_tile": false, 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/642059725845233666/OScoN1bJ_normal.png", 
+                "profile_link_color": "0084B4", 
+                "profile_sidebar_border_color": "C0DEED", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "profile_text_color": "333333", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "INQUIZIE", 
+                "statuses_count": 157455, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": "http://t.co/ksBOerxqTL", 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }, 
+        {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon Jan 25 04:56:03 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            83, 
+                            98
+                        ], 
+                        "text": "madmaxfuryroad"
+                    }, 
+                    {
+                        "indices": [
+                            99, 
+                            111
+                        ], 
+                        "text": "madmaxmovie"
+                    }, 
+                    {
+                        "indices": [
+                            112, 
+                            124
+                        ], 
+                        "text": "actionmovie"
+                    }, 
+                    {
+                        "indices": [
+                            125, 
+                            135
+                        ], 
+                        "text": "explosion"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/DjpaIT42lF", 
+                        "expanded_url": "http://twitter.com/wmeyersofficial/status/605170160073179137/photo/1", 
+                        "id": 605170111834550272, 
+                        "id_str": "605170111834550272", 
+                        "indices": [
+                            139, 
+                            140
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/CGX_AqiU8AA3Nc9.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/CGX_AqiU8AA3Nc9.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 563, 
+                                "resize": "fit", 
+                                "w": 749
+                            }, 
+                            "medium": {
+                                "h": 451, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 255, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "source_status_id": 605170160073179137, 
+                        "source_status_id_str": "605170160073179137", 
+                        "source_user_id": 3091599180, 
+                        "source_user_id_str": "3091599180", 
+                        "type": "photo", 
+                        "url": "http://t.co/DjpaIT42lF"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 3091599180, 
+                        "id_str": "3091599180", 
+                        "indices": [
+                            3, 
+                            19
+                        ], 
+                        "name": "Will Meyers", 
+                        "screen_name": "wmeyersofficial"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 691484652612128769, 
+            "id_str": "691484652612128769", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "metadata": {
+                "iso_language_code": "en", 
+                "result_type": "recent"
+            }, 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "retweeted_status": {
+                "contributors": null, 
+                "coordinates": null, 
+                "created_at": "Mon Jun 01 00:33:04 +0000 2015", 
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                62, 
+                                77
+                            ], 
+                            "text": "madmaxfuryroad"
+                        }, 
+                        {
+                            "indices": [
+                                78, 
+                                90
+                            ], 
+                            "text": "madmaxmovie"
+                        }, 
+                        {
+                            "indices": [
+                                91, 
+                                103
+                            ], 
+                            "text": "actionmovie"
+                        }, 
+                        {
+                            "indices": [
+                                104, 
+                                114
+                            ], 
+                            "text": "explosion"
+                        }
+                    ], 
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/DjpaIT42lF", 
+                            "expanded_url": "http://twitter.com/wmeyersofficial/status/605170160073179137/photo/1", 
+                            "id": 605170111834550272, 
+                            "id_str": "605170111834550272", 
+                            "indices": [
+                                115, 
+                                137
+                            ], 
+                            "media_url": "http://pbs.twimg.com/media/CGX_AqiU8AA3Nc9.jpg", 
+                            "media_url_https": "https://pbs.twimg.com/media/CGX_AqiU8AA3Nc9.jpg", 
+                            "sizes": {
+                                "large": {
+                                    "h": 563, 
+                                    "resize": "fit", 
+                                    "w": 749
+                                }, 
+                                "medium": {
+                                    "h": 451, 
+                                    "resize": "fit", 
+                                    "w": 600
+                                }, 
+                                "small": {
+                                    "h": 255, 
+                                    "resize": "fit", 
+                                    "w": 340
+                                }, 
+                                "thumb": {
+                                    "h": 150, 
+                                    "resize": "crop", 
+                                    "w": 150
+                                }
+                            }, 
+                            "type": "photo", 
+                            "url": "http://t.co/DjpaIT42lF"
+                        }
+                    ], 
+                    "symbols": [], 
+                    "urls": [], 
+                    "user_mentions": []
+                }, 
+                "favorite_count": 7, 
+                "favorited": false, 
+                "geo": null, 
+                "id": 605170160073179137, 
+                "id_str": "605170160073179137", 
+                "in_reply_to_screen_name": null, 
+                "in_reply_to_status_id": null, 
+                "in_reply_to_status_id_str": null, 
+                "in_reply_to_user_id": null, 
+                "in_reply_to_user_id_str": null, 
+                "is_quote_status": false, 
+                "lang": "en", 
+                "metadata": {
+                    "iso_language_code": "en", 
+                    "result_type": "recent"
+                }, 
+                "place": null, 
+                "possibly_sensitive": false, 
+                "retweet_count": 2, 
+                "retweeted": false, 
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+                "text": "Having some fun with the cast after seeing Mad Max Fury Road! #madmaxfuryroad #madmaxmovie #actionmovie #explosion http://t.co/DjpaIT42lF", 
+                "truncated": false, 
+                "user": {
+                    "contributors_enabled": false, 
+                    "created_at": "Tue Mar 17 00:45:20 +0000 2015", 
+                    "default_profile": true, 
+                    "default_profile_image": false, 
+                    "description": "Actor | Musician | Surfer | Blood Donor - Carter on Invisible Sister, Hunter on Nick's Bella and the Bulldogs, FB: Will Meyers, Insta: @willmeyersofficial", 
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }, 
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "m.imdb.com/name/nm6186975/", 
+                                    "expanded_url": "http://m.imdb.com/name/nm6186975/", 
+                                    "indices": [
+                                        0, 
+                                        23
+                                    ], 
+                                    "url": "https://t.co/0lzCUc26jy"
+                                }
+                            ]
+                        }
+                    }, 
+                    "favourites_count": 548, 
+                    "follow_request_sent": false, 
+                    "followers_count": 1141, 
+                    "following": false, 
+                    "friends_count": 478, 
+                    "geo_enabled": true, 
+                    "has_extended_profile": false, 
+                    "id": 3091599180, 
+                    "id_str": "3091599180", 
+                    "is_translation_enabled": false, 
+                    "is_translator": false, 
+                    "lang": "en", 
+                    "listed_count": 3, 
+                    "location": "", 
+                    "name": "Will Meyers", 
+                    "notifications": false, 
+                    "profile_background_color": "C0DEED", 
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                    "profile_background_tile": false, 
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3091599180/1452381815", 
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/656896235295473664/YWGdet3I_normal.jpg", 
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/656896235295473664/YWGdet3I_normal.jpg", 
+                    "profile_link_color": "0084B4", 
+                    "profile_sidebar_border_color": "C0DEED", 
+                    "profile_sidebar_fill_color": "DDEEF6", 
+                    "profile_text_color": "333333", 
+                    "profile_use_background_image": true, 
+                    "protected": false, 
+                    "screen_name": "wmeyersofficial", 
+                    "statuses_count": 521, 
+                    "time_zone": null, 
+                    "url": "https://t.co/0lzCUc26jy", 
+                    "utc_offset": null, 
+                    "verified": false
+                }
+            }, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "RT @wmeyersofficial: Having some fun with the cast after seeing Mad Max Fury Road! #madmaxfuryroad #madmaxmovie #actionmovie #explosion htt\u2026", 
+            "truncated": false, 
+            "user": {
+                "contributors_enabled": false, 
+                "created_at": "Thu Apr 05 01:03:15 +0000 2012", 
+                "default_profile": false, 
+                "default_profile_image": false, 
+                "description": "\u2661||WILL MEYERS||\u2022 ||DIRECTIONER||\u2661", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "favourites_count": 449, 
+                "follow_request_sent": false, 
+                "followers_count": 350, 
+                "following": false, 
+                "friends_count": 1124, 
+                "geo_enabled": false, 
+                "has_extended_profile": true, 
+                "id": 545574440, 
+                "id_str": "545574440", 
+                "is_translation_enabled": false, 
+                "is_translator": false, 
+                "lang": "en", 
+                "listed_count": 2, 
+                "location": "Directionlandia", 
+                "name": "NataMeyersDirection\u265b", 
+                "notifications": false, 
+                "profile_background_color": "642D8B", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+                "profile_background_tile": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/545574440/1453848782", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/692118256438636544/OOcF9j8G_normal.jpg", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/692118256438636544/OOcF9j8G_normal.jpg", 
+                "profile_link_color": "FF0033", 
+                "profile_sidebar_border_color": "65B0DA", 
+                "profile_sidebar_fill_color": "7AC3EE", 
+                "profile_text_color": "3D1957", 
+                "profile_use_background_image": true, 
+                "protected": false, 
+                "screen_name": "natybazaldua", 
+                "statuses_count": 1767, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "url": null, 
+                "utc_offset": -18000, 
+                "verified": false
+            }
+        }
+    ]
+]
