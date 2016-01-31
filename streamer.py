@@ -1,3 +1,4 @@
+import random
 import sys
 import datetime
 import json
@@ -18,8 +19,11 @@ def generateFileName():
         os.makedirs('stream-tweets/' + termsFileBasename[0:fileExtIndex], exist_ok=True)
         return 'stream-tweets/' + termsFileBasename[0:fileExtIndex] + '/' + str(datetime.datetime.now()).replace(' ', '-') + '.json'
 
+credentialFiles = os.listdir('credentials')
+conns = [oscars.twitStreamingConn('credentials/' + x) for x in credentialFiles]
 
-s = oscars.twitStreamingConn()
+s = conns[random.randint(0, len(conns) - 1)]
+
 statusGen = s.statuses.filter(track=termList)
 
 for status in statusGen:
