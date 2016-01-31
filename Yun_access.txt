@@ -1,0 +1,22 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red255\green255\blue255;\red38\green38\blue38;
+\red249\green248\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl300\sa256\partightenfactor0
+
+\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 TWITTER_CONSUMER_KEY="
+\f1\fs28 \cf4 \cb5 \strokec4 fwybw121VpMZnw8FpLdami6Gf
+\f0\fs26 \cf2 \cb3 \strokec2 "\
+TWITTER_CONSUMER_SECRET="
+\f1\fs28 \cf4 \cb5 \strokec4 4PaOCYmb6SA9x7dqCbUfh9Qb8IQhkgXimwgqmpbOZ6HatnTWM9
+\f0\fs26 \cf2 \cb3 \strokec2 "\
+TWITTER_ACCESS_TOKEN="
+\f1\fs28 \cf4 \cb5 \strokec4 2941052373-LxSbp7pAkLKcOQG221NAbXEiyDUUbsO8JTGQgHw
+\f0\fs26 \cf2 \cb3 \strokec2 "\
+TWITTER_ACCESS_SECRET="
+\f1\fs28 \cf4 \strokec4 vXaYjHPblW0v8xBRkmwKaDtBSYcDfZZi3gozMLG2vIwTF
+\f0\fs26 \cf2 \strokec2 "\
+}
