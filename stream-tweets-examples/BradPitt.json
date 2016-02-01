@@ -1,0 +1,3803 @@
+[
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "2016-01-30 22:57:05+00:00", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        16
+                    ], 
+                    "text": "AngelinaJolie"
+                }, 
+                {
+                    "indices": [
+                        41, 
+                        45
+                    ], 
+                    "text": "DVD"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        90
+                    ], 
+                    "text": "BradPitt"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dlvr.it/KMR4X7", 
+                    "expanded_url": "http://dlvr.it/KMR4X7", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "url": "https://t.co/EbMDHr7nph"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Brz94jgT0H", 
+                    "expanded_url": "http://twitter.com/BradPitt_Watch/status/693568645931225088/photo/1", 
+                    "id": 693568645797015552, 
+                    "id_str": "693568645797015552", 
+                    "indices": [
+                        116, 
+                        139
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/CaANAjgUcAARKKi.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "medium": {
+                            "h": 500, 
+                            "resize": "fit", 
+                            "w": 375
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/Brz94jgT0H"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "filter_level": "low", 
+        "geo": null, 
+        "id": 693568645931225088, 
+        "id_str": "693568645931225088", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>", 
+        "text": "lara croft tomb raider dvd sensormatic angelina jolie", 
+        "timestamp_ms": "1454194625729", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue May 29 13:15:56 +0000 2012", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "The latest #BradPitt #gossip online keeping you up to date with all Brad Pitt news. #CelebrityNews #TeamFollowBack", 
+            "favourites_count": 0, 
+            "follow_request_sent": null, 
+            "followers_count": 5890, 
+            "following": null, 
+            "friends_count": 644, 
+            "geo_enabled": false, 
+            "id": 593695862, 
+            "id_str": "593695862", 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 143, 
+            "location": null, 
+            "name": "Brad Pitt News Watch", 
+            "notifications": null, 
+            "profile_background_color": "131516", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "profile_background_tile": true, 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2260356024/imagesbp_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "BradPitt_Watch", 
+            "statuses_count": 310083, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "url": "http://celebritygossip.newsdigg.net/", 
+            "utc_offset": -28800, 
+            "verified": false
+        }
+    }
+]

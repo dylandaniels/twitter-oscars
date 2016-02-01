@@ -1,0 +1,189 @@
+[
+    {
+        "contributors_enabled": false, 
+        "created_at": "Fri Mar 13 16:42:40 +0000 2015", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "Available on Blu-ray and Digital HD February 2!", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ownbridgeofspies.com", 
+                        "expanded_url": "http://ownbridgeofspies.com/", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/0UO4rSI7fi"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 19, 
+        "follow_request_sent": false, 
+        "followers_count": 3581, 
+        "following": false, 
+        "friends_count": 18, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 3077320650, 
+        "id_str": "3077320650", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": "en", 
+        "listed_count": 57, 
+        "location": "", 
+        "name": "Bridge Of Spies", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3077320650/1452819547", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685145558323822592/vC3l-q_R_normal.png", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685145558323822592/vC3l-q_R_normal.png", 
+        "profile_link_color": "FF0000", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "BridgeofSpies", 
+        "status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Jan 30 21:00:06 +0000 2016", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            71, 
+                            85
+                        ], 
+                        "text": "BridgeOfSpies"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/J7F7pRQOqX", 
+                        "expanded_url": "http://twitter.com/BridgeofSpies/status/693539204341571586/photo/1", 
+                        "id": 693539203674693632, 
+                        "id_str": "693539203674693632", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/CZ_yOzDWYAAf3dp.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/CZ_yOzDWYAAf3dp.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 1024, 
+                                "resize": "fit", 
+                                "w": 956
+                            }, 
+                            "medium": {
+                                "h": 642, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 363, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/J7F7pRQOqX"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 50374439, 
+                        "id_str": "50374439", 
+                        "indices": [
+                            41, 
+                            50
+                        ], 
+                        "name": "Tom Hanks", 
+                        "screen_name": "tomhanks"
+                    }
+                ]
+            }, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/J7F7pRQOqX", 
+                        "expanded_url": "http://twitter.com/BridgeofSpies/status/693539204341571586/photo/1", 
+                        "id": 693539203674693632, 
+                        "id_str": "693539203674693632", 
+                        "indices": [
+                            87, 
+                            110
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/CZ_yOzDWYAAf3dp.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/CZ_yOzDWYAAf3dp.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 1024, 
+                                "resize": "fit", 
+                                "w": 956
+                            }, 
+                            "medium": {
+                                "h": 642, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 363, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "https://t.co/J7F7pRQOqX"
+                    }
+                ]
+            }, 
+            "favorite_count": 13, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 693539204341571586, 
+            "id_str": "693539204341571586", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "is_quote_status": false, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+            "text": "From the Movie Set: Original portrait of @tomhanks as James Donovan in #BridgeOfSpies. https://t.co/J7F7pRQOqX", 
+            "truncated": false
+        }, 
+        "statuses_count": 257, 
+        "time_zone": null, 
+        "url": "https://t.co/0UO4rSI7fi", 
+        "utc_offset": null, 
+        "verified": true
+    }
+]
