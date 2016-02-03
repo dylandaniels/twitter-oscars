@@ -1,0 +1,46 @@
+from __future__ import division, print_function
+
+import json
+from time import sleep
+import twitter
+
+CONSUMER_KEY       = "SiGVj9MTDEMowPfHmKIr5l3Yl"
+CONSUMER_SECRET    = "cWyHoHFII9nYU31N1e7muC0B57kIiVYRJnrugWvd9asI8u8EBV"
+OAUTH_TOKEN        = "4847738229-qPuPxeWAt8V9zVCWwnuSbhpKy3MhEd1arOPgzjU"
+OAUTH_TOKEN_SECRET = "lHHrAcZWNyOYibaVobsAFBTRh0iPTE68DTjhMOFSsJwBg"
+
+auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,CONSUMER_KEY, CONSUMER_SECRET)
+api = twitter.Twitter(auth=auth)
+
+def search_api(term):
+	print("Beginning retrieval of " + term)
+	try:
+		result = api.search.tweets(q=term,count=100, include_rts=1)['statuses']
+	except:
+		print("Reached rate limit; sleeping 15 minutes")
+		sleep(900)
+		result = api.search.tweets(q=term,count=100, include_rts=1)['statuses']
+	ntweets = len(result)
+	if ntweets < 100:
+		return result
+	while ntweets == 100:
+		min_id = min([tweet["id"] for tweet in result])
+		try:
+			next_result = api.search.tweets(q=term,count=100, max_id=min_id - 1, include_rts=1)['statuses']
+		except:
+			print("Reached rate limit; sleeping 15 minutes")
+			sleep(900)
+			next_result = api.search.tweets(q=term,count=100, max_id=min_id - 1, include_rts=1)['statuses']
+		ntweets = len(next_result)
+		result += next_result
+	return result
+
+results1 = [search_api(term="#thebigshort")]
+
+with open("search_thebigshort.json", "w") as f:
+	json.dump(results1, f, indent=4, sort_keys=True)
+
+info1 = api.users.lookup(screen_name="thebigshort")
+
+with open("account_thebigshort.json", "w") as f:
+	json.dump(info1, f, indent=4, sort_keys=True)
