@@ -1,0 +1,36 @@
+Presentation:
+
+What are people saying about the Oscars/each movie?(text content of tweets)
+Word Cloud,histogram of the words(use NLTK)
+
+streaming api(accurate, Saturday afternoon to Monday morning, just have movie)
+search api( not very accurate,have movies,actors)
+Best pictures:
+# of followers count for each movie
+$ of mentions(streaming api, search api)(sentiment for each tweet)(- or +)
+Rotten Tomatos score
+# of followers for each actor
+Box Office Revenue(profit-cost)
+# of followers for each actor
+# previous awards+nominations
+
+
+pictures:
+
+Word cloud for text from Oscars keywords(Oscars, # oscars, the Oscars etc)(using search api)(Dylan)(Weiyan will send the cold
+
+topics/top keywords for each best picture(LDA?) (using search api)(if data from search api is not enough, we use stream api)(Yun)
+Sentiments Analysis for tweets of each movie(use both stream and search api)(MingYung)
+
+Bar chart for tweet mentions(retweets, favorites) for tweet mentions of each movie(using stream+search)(Weiyan/Jiang)
+
+# of followers for each actor(# of mentions)(cluster by movie?) (using search api)(Alanna)
+
+box office(till 3 Feb) vs tweet mentions(by using stream and both stream and search)(Dylan)
+
+RT/Metacritic vs tweet mentions(by using stream and both stream and search)(Dylan)
+
+
+Every time draw a plot and upload it on github, we should say something on github. So other people can review it and comment it.
+
+Next meet: Friday at 1pm
