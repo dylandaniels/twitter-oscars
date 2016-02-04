@@ -35,12 +35,165 @@ def search_api(term):
 		result += next_result
 	return result
 
-results1 = [search_api(term="#thebigshort")]
+# oscars
+
+results = [search_api(term='#theoscars')]
+
+with open("search_oscars.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+oscars = ['#oscars', 'the oscars']
+
+for i in oscars:
+	results = [search_api(term=i)]
+	with open("search_oscars.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# thebigshort
+
+results = [search_api(term='@thebigshort')]
 
 with open("search_thebigshort.json", "w") as f:
-	json.dump(results1, f, indent=4, sort_keys=True)
+	json.dump(results, f, indent=4, sort_keys=True)
+
+thebigshort = ['#TheBigShort', '#bigshortmovie', '#thebigshortmovie', 'The Big Short', 'The Big Short Movie']
+
+for i in thebigshort:
+	results = [search_api(term=i)]
+	with open("search_thebigshort.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# bridge of spies
+
+results = [search_api(term='Bridge of Spies')]
+
+with open("search_bridgeofspies.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+bridgeofspies = ['@BridgeofSpies', '#BridgeofSpies']
+
+for i in bridgeofspies:
+	results = [search_api(term=i)]
+	with open("search_bridgeofspies.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# madmax movie
+
+results = [search_api(term='Mad Max')]
+
+with open("search_madmax.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+madmax = ['Mad Max: Fury Road', 'Mad Max Fury Road', '@MadMaxMovie', 'Mad Max Movie', 'Fury Road', 'madmax']
+
+for i in madmax:
+	results = [search_api(term=i)]
+	with open("search_madmax.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# martian movie
+
+results = [search_api(term='The Martian')]
+
+with open("search_martian.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+martian = ['Martian Movie', '#TheMartian', '#TheMartianMovie', '#MartianMovie']
+
+for i in martian:
+	results = [search_api(term=i)]
+	with open("search_martian.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# revenantmovie
+
+results = [search_api(term='The Revenant')]
+
+with open("search_revenant.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+revenant = ['The Revenant Movie', 'Revenant Movie', '#TheRevenant', '#TheRevenantMovie', '#RevenantMovie', '@RevenantMovie']
+
+for i in revenant:
+	results = [search_api(term=i)]
+	with open("search_revenant.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# roomthemovie
+
+results = [search_api(term='Room Movie')]
+
+with open("search_room.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+room = ['The Room Movie', 'Room The Movie', '#RoomMovie', '#TheRoom', '#RoomTheMovie', '#TheRoomMovie', '@RoomTheMovie']
+
+for i in room:
+	results = [search_api(term=i)]
+	with open("search_room.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# spotlightmovie
+
+results = [search_api(term='Spotlight Movie')]
+
+with open("search_spotlight.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+spotlight = ['Spotlight The Movie', '#SpotlightMovie', '#SpotlightTheMovie', '@SpotlightMovie']
+
+for i in spotlight:
+	results = [search_api(term=i)]
+	with open("search_spotlight.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+# brooklyn
+
+results = [search_api(term='brooklyn movie')]
+
+with open("search_brooklyn.json", "w") as f:
+	json.dump(results, f, indent=4, sort_keys=True)
+
+brooklyn = ['#BrooklynMovie', 'BrooklynMovie']
+
+for i in brooklyn:
+	results = [search_api(term=i)]
+	with open("search_brooklyn.json", "a") as f:
+		json.dump(results, f, indent=4, sort_keys=True)
+
+
 
 info1 = api.users.lookup(screen_name="thebigshort")
 
 with open("account_thebigshort.json", "w") as f:
 	json.dump(info1, f, indent=4, sort_keys=True)
+
+info2 = api.users.lookup(screen_name="bridgeofspies")
+
+with open("account_bridgeofspies.json", "w") as f:
+	json.dump(info2, f, indent=4, sort_keys=True)
+
+info3 = api.users.lookup(screen_name="madmaxmovie")
+
+with open("account_madmaxmovie.json", "w") as f:
+	json.dump(info3, f, indent=4, sort_keys=True)
+
+info4 = api.users.lookup(screen_name="martianmovie")
+
+with open("account_martianmovie.json", "w") as f:
+	json.dump(info4, f, indent=4, sort_keys=True)
+
+info5 = api.users.lookup(screen_name="revenantmovie")
+
+with open("account_revenantmovie.json", "w") as f:
+	json.dump(info5, f, indent=4, sort_keys=True)
+
+info6 = api.users.lookup(screen_name="roomthemovie")
+
+with open("account_roomthemovie.json", "w") as f:
+	json.dump(info6, f, indent=4, sort_keys=True)
+
+info7 = api.users.lookup(screen_name="spotlightmovie")
+
+with open("account_spotlightmovie.json", "w") as f:
+	json.dump(info7, f, indent=4, sort_keys=True)
