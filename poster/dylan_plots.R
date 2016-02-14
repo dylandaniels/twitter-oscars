@@ -6,9 +6,12 @@ setwd('~/stat222/twitter')
 tweetCounts <- read.csv('bestPictureTweetCounts.csv', header=FALSE)
 names(tweetCounts) <- c('count', 'Name')
 
-boxOffice <- c(71884220, 30599697, 153636354, 
-               9901663, 34884206, 61191200, 
-               227954994, 139512249)
+movie_colors <- c('#CC0000', '#336699', '#FFCC33', '#3399FF', '#FF9933',  '#9933FF', '#CC6600', '#999999') 
+
+# Downloaded 2/13/2016
+boxOffice <- c(72086318, 33186253, 153636354, 
+               11551978, 36653245, 64616837, 
+               228167401, 153564599)
 
 rottenTomatoes <- c(0.91, 0.98, 0.97,
                     0.96, 0.96, 0.88,
@@ -22,8 +25,7 @@ awardsWon <- c(19, 23, 130, 63, 89, 23, 26, 49)
 nominations <- c(73, 124, 150, 117, 117, 72, 135, 134)
 awardRatio <- awardsWon / nominations
 
-freqCounts <- cbind(tweetCounts, boxOffice, rottenTomatoes, metacritic,
-                    previousAwards, currentlyWon, awardRatio)
+freqCounts <- cbind(tweetCounts, boxOffice, rottenTomatoes, metacritic, awardRatio, movie_colors)
 
 sentiment <- read.csv('sentiment_analysis.csv')
 
@@ -33,7 +35,7 @@ movieData[,1] <- NULL
 
 scatterPlot <- function (data, xVar, yVar, label, title, xlab, ylab) {
   ggplot(data=data, mapping=aes_string(x=xVar, y=yVar, label=label, color=label)) + 
-    geom_point(size=3) + 
+    geom_point(size=3, color=movie_colors) + 
     ggtitle(title) +
     labs(x=xlab, y=ylab) +
     theme(legend.position='none') +# removes legend
@@ -45,17 +47,17 @@ scatterPlot <- function (data, xVar, yVar, label, title, xlab, ylab) {
 defaultTextLabelSize <- 4
 
 plotBoxOfficeVsTweets <- function () {
-  p <- scatterPlot(freqCounts, 'count', 'boxOffice', 'Name',
+  p <- scatterPlot(movieData, 'count', 'boxOffice', 'Name',
                   'Box Office Earnings vs. Number of Tweets',
                   'Number of tweets (1/29/16 - 2/1/16)', 
-                  'Total box office earnings (as of 2/5/16)')
+                  'Total box office earnings (as of 2/13/16)')
   p <- p + scale_y_continuous(label=function(x){return(paste0("$", x / 1e6, 'M'))})
   p + geom_text(vjust=-1, hjust="inward", check_overlap=TRUE, color='black',
                 size = defaultTextLabelSize)
 }
 
 plotRottenTomatoesVsTweets <- function () {
-  p <- scatterPlot(freqCounts, 'count', 'rottenTomatoes', 'Name',
+  p <- scatterPlot(movieData, 'count', 'rottenTomatoes', 'Name',
                   'Rotten Tomatoes Score vs. Number of Tweets',
                   'Number of tweets (1/29/16 - 2/1/16)', 
                   'Rotten Tomatoes Tomatometer Score')
@@ -67,7 +69,7 @@ plotRottenTomatoesVsTweets <- function () {
 }
 
 plotMetacriticVsTweets <- function () {
-  p <- scatterPlot(freqCounts, 'count', 'metacritic', 'Name',
+  p <- scatterPlot(movieData, 'count', 'metacritic', 'Name',
                    'Metacritic Score vs. Number of Tweets',
                    'Number of tweets (1/29/16 - 2/1/16)', 
                    'Metacritic Score')
@@ -85,17 +87,31 @@ plotSentimentVsTweets <- function () {
 }
 
 plotSentimentVsBoxOffice <- function () {
-  
+  p <- scatterPlot(movieData, 'Sentiment', 'boxOffice', 'Name',
+                   'Box Office Earnings vs. Sentiment Score',
+                   'Sentiment Score', 
+                   'Total box office earnings (as of 2/13/16)')
+  p <- p + scale_y_continuous(label=function(x){return(paste0("$", x / 1e6, 'M'))})
+  p + geom_text(color='black')
 }
 
 plotSentimentVsRottenTomatoes <- function () {
-  
+  p <- scatterPlot(movieData, 'Sentiment', 'rottenTomatoes', 'Name',
+                   'Rotten Tomatoes Score vs. Sentiment Score',
+                   'Sentiment Score', 
+                   'Rotten Tomatoes Tomatometer Score')
+  p + geom_text(color='black')
 }
 
 plotRottenTomatoesVsBoxOffice <- function () {
-  
+  p <- scatterPlot(movieData, 'rottenTomatoes', 'boxOffice', 'Name',
+                   'Box Office Earnings vs. Rotten Tomatoes Score',
+                   'Rotten Tomatoes Tomtometer Score', 
+                   'Total box office earnings (as of 2/13/16)')
+  p <- p + scale_y_continuous(label=function(x){return(paste0("$", x / 1e6, 'M'))})
+  p + geom_text(color='black')
 }
 
 plotLattice <- function () {
-  ggpairs(data=movieData, c(1,2,4,5), showStrips=FALSE)
+  ggpairs(data=movieData, c(1,2,4,5))
 }
