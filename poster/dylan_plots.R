@@ -1,5 +1,5 @@
 library(ggplot2)
-
+library(GGally)
 # NOTE: add last year's winner as horizontal line
 
 setwd('~/stat222/twitter')
@@ -18,9 +18,18 @@ metacritic <- c(0.81, 0.87, 0.89,
                 0.86, 0.93, 0.81,
                 0.80, 0.76)
 
-freqCounts <- cbind(tweetCounts, boxOffice, rottenTomatoes, metacritic)
+awardsWon <- c(19, 23, 130, 63, 89, 23, 26, 49)
+nominations <- c(73, 124, 150, 117, 117, 72, 135, 134)
+awardRatio <- awardsWon / nominations
+
+freqCounts <- cbind(tweetCounts, boxOffice, rottenTomatoes, metacritic,
+                    previousAwards, currentlyWon, awardRatio)
 
 sentiment <- read.csv('sentiment_analysis.csv')
+
+movieData <- cbind(sentiment[order(sentiment$Movies),], freqCounts[order(freqCounts$Name),])
+movieData[,1] <- NULL 
+
 
 scatterPlot <- function (data, xVar, yVar, label, title, xlab, ylab) {
   ggplot(data=data, mapping=aes_string(x=xVar, y=yVar, label=label, color=label)) + 
@@ -67,8 +76,7 @@ plotMetacriticVsTweets <- function () {
 }
 
 plotSentimentVsTweets <- function () {
-  df <- cbind(sentiment[order(sentiment$Movies),], freqCounts[order(freqCounts$Name),])
-  p <- scatterPlot(df, 'count', 'Sentiment', 'Name',
+  p <- scatterPlot(movieData, 'count', 'Sentiment', 'Name',
                    'Sentiment Score vs. Number of Tweets',
                    'Number of tweets (1/29/16 - 2/1/16)', 
                    'Sentiment Score')
@@ -76,21 +84,18 @@ plotSentimentVsTweets <- function () {
                 size = defaultTextLabelSize)
 }
 
+plotSentimentVsBoxOffice <- function () {
+  
+}
 
-# p <- ggplot(data=freqCounts, mapping=aes(x=count, y=boxOffice, label=Name)) + 
-#   geom_point(size=3) +
-#   geom_text(vjust=-1, hjust="inward") +
-#   ggtitle('Tweet Mentions vs. Box Office Earnings') +
-#   labs(x='Number of tweets (1/29/16 - 2/1/16)', y='Total box office earnings (as of 2/5/16)')
-# 
-# 
-# 
-# p + scale_x_continuous(limits=c(0, 25000))
-# breaks=c('0', '5e7', '1e8', '1.5e8', '2e8')) 
-    # labels=c('$0', '$5', '$1', '$1.5', '$2'))
-# 
-# ggplot(data=freqCounts, aes(x=count, y=rottenTomatoes)) +
-#   geom_point(shape=1)
-# 
-# ggplot(data=freqCounts, aes(x=count, y=metacritic)) + 
-#   geom_point(shape=1)
+plotSentimentVsRottenTomatoes <- function () {
+  
+}
+
+plotRottenTomatoesVsBoxOffice <- function () {
+  
+}
+
+plotLattice <- function () {
+  ggpairs(data=movieData, c(1,2,4,5), showStrips=FALSE)
+}
