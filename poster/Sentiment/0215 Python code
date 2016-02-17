@@ -1,0 +1,326 @@
+# Import packages
+from __future__ import division, print_function
+
+import json
+from time import sleep
+import twitter
+import csv
+import numpy
+
+# Define functions that categorize tweets into negative/positive/neutral
+def negfind(lst):
+	return [i for i, x in enumerate(lst) if x<0]
+
+def posfind(lst):
+	return [i for i, x in enumerate(lst) if x>0]
+
+def neufind(lst):
+	return [i for i, x in enumerate(lst) if x==0]
+
+# Revenant
+ ## Make a list of the sentiments of the Revenant tweets
+with open("search_revenant.json") as infile:
+	revenant = json.load(infile)
+
+revenant1 = revenant[0]
+revenant2 = revenant1[0]['text']
+revenant3 = tokenize(revenant2)
+corpus_revenant = clean(revenant3)
+delete_list = ['The Revenant','Revenant','movie','The Revenant Movie','Revenant Movie','the revenant','the revenant movie','the revenant','#TheRevenant','#TheRevenantMovie','#RevenantMovie','#therevenant','#therevenantmovie','#therevenant','@RevenantMovie']
+for word in delete_list:
+	corpus_revenant = corpus_revenant.replace(word, "")
+
+testimonial = TextBlob(corpus_revenant)
+aList = [testimonial.sentiment.polarity]
+
+for num in range(0,len(revenant1)-1):
+	revenant1 = revenant[0]
+	revenant2 = revenant1[num]['text']
+	revenant3 = tokenize(revenant2)
+	corpus_revenant = clean(revenant3)
+	delete_list = ['The Revenant','Revenant','movie','The Revenant Movie','Revenant Movie','the revenant','the revenant movie','the revenant','#TheRevenant','#TheRevenantMovie','#RevenantMovie','#therevenant','#therevenantmovie','#therevenant','@RevenantMovie']
+	for word in delete_list:
+		corpus_revenant = corpus_revenant.replace(word, "")
+	testimonial = TextBlob(corpus_revenant)
+	table = aList.append(testimonial.sentiment.polarity)
+
+ ## Make a list of the Revenant tweets 
+revenant1 = revenant[0]
+revenant2 = revenant1[0]['text']
+revenant3 = tokenize(revenant2)
+corpus_revenant = clean(revenant3)
+delete_list = ['The Revenant','Revenant','movie','The Revenant Movie','Revenant Movie','the revenant','the revenant movie','the revenant','#TheRevenant','#TheRevenantMovie','#RevenantMovie','#therevenant','#therevenantmovie','#therevenant','@RevenantMovie',"u'"]
+for word in delete_list:
+	corpus_revenant = corpus_revenant.replace(word, "")
+
+bList = [corpus_revenant]
+
+for num in range(0,len(revenant1)-1):
+	revenant1 = revenant[0]
+	revenant2 = revenant1[num]['text']
+	revenant3 = tokenize(revenant2)
+	corpus_revenant = clean(revenant3)
+	delete_list = ['The Revenant','Revenant','movie','The Revenant Movie','Revenant Movie','the revenant','the revenant movie','the revenant','#TheRevenant','#TheRevenantMovie','#RevenantMovie','#therevenant','#therevenantmovie','#therevenant','@RevenantMovie',"revenant",","
+]
+	for word in delete_list:
+		corpus_revenant = corpus_revenant.replace(word, "")
+	table = bList.append(corpus_revenant)
+
+ ## Categorize the Revenant tweets into the three categories: Negative/Positive/Neutral
+  ## Outputs
+   ## negrev = the list of the negative tweets of the Revenant 
+   ## posrev = the list of the positive tweets of the Revenant 
+   ## neurev = the list of the neutral tweets of the Revenant 
+
+negind = negfind(aList)
+posind = posfind(aList)
+neuind = neufind(aList)
+
+negrev = []
+for i in negind:
+	negrev.append(bList[i])
+
+posrev = []
+for i in posind:
+	posrev.append(bList[i])
+
+neurev = []
+for i in neuind:
+	neurev.append(bList[i])
+
+
+# Going through the same steps for the Brooklyn
+with open("search_brooklyn.json") as infile:
+	brooklyn = json.load(infile)
+
+brooklyn1 = brooklyn[0]
+brooklyn2 = brooklyn1[0]['text']
+brooklyn3 = tokenize(brooklyn2)
+corpus_brooklyn = clean(brooklyn3)
+delete_list = ['brooklyn', 'movie', '#brooklynmovie', 'brooklybmovie','BrooklynMovie','Brooklyn','Movie','#BrooklynMovie']
+for word in delete_list:
+	corpus_brooklyn = corpus_brooklyn.replace(word, "")
+
+testimonial = TextBlob(corpus_brooklyn)
+aList = [testimonial.sentiment.polarity]
+
+for num in range(0,len(brooklyn1)-1):
+	brooklyn1 = brooklyn[0]
+	brooklyn2 = brooklyn1[num]['text']
+	brooklyn3 = tokenize(brooklyn2)
+	corpus_brooklyn = clean(brooklyn3)
+	delete_list = ['brooklyn', 'movie', '#brooklynmovie', 'brooklybmovie','BrooklynMovie','Brooklyn','Movie','#BrooklynMovie']
+	for word in delete_list:
+		corpus_brooklyn = corpus_brooklyn.replace(word, "")
+	testimonial = TextBlob(corpus_brooklyn)
+	table = aList.append(testimonial.sentiment.polarity)
+
+brooklyn1 = brooklyn[0]
+brooklyn2 = brooklyn1[0]['text']
+brooklyn3 = tokenize(brooklyn2)
+corpus_brooklyn = clean(brooklyn3)
+delete_list = ['brooklyn', 'movie', '#brooklynmovie', 'brooklybmovie','BrooklynMovie','Brooklyn','Movie','#BrooklynMovie']
+for word in delete_list:
+	corpus_brooklyn = corpus_brooklyn.replace(word, "")
+
+bList = [corpus_brooklyn]
+
+for num in range(0,len(brooklyn1)-1):
+	brooklyn1 = brooklyn[0]
+	brooklyn2 = brooklyn1[num]['text']
+	brooklyn3 = tokenize(brooklyn2)
+	corpus_brooklyn = clean(brooklyn3)
+	delete_list = ['brooklyn', 'movie', '#brooklynmovie', 'brooklybmovie','BrooklynMovie','Brooklyn','Movie','#BrooklynMovie']
+	for word in delete_list:
+		corpus_brooklyn = corpus_brooklyn.replace(word, "")
+	table = bList.append(corpus_brooklyn)
+
+negind = negfind(aList)
+posind = posfind(aList)
+neuind = neufind(aList)
+
+negbro = []
+for i in negind:
+	negbro.append(bList[i])
+
+posbro = []
+for i in posind:
+	posbro.append(bList[i])
+
+neubro = []
+for i in neuind:
+	neubro.append(bList[i])
+
+
+# Going through the same steps for the Spotlight
+
+with open("search_spotlight.json") as infile:
+	spotlight = json.load(infile)
+
+spotlight1 = spotlight[0]
+spotlight2 = spotlight1[0]['text']
+spotlight3 = tokenize(spotlight2)
+corpus_spotlight = clean(spotlight3)
+delete_list = ['Spotlight Movie','Spotlight','Movie','Spotlight The Movie','Spotlight the Movie','spotlight movie','spotlight the movie','#SpotlightMovie','#spotlightmovie','#SpotlightTheMovie','#SpotlighttheMovie','#spotlightthemovie','@SpotlightMovie']
+for word in delete_list:
+	corpus_spotlight = corpus_spotlight.replace(word, "")
+
+testimonial = TextBlob(corpus_spotlight)
+aList = [testimonial.sentiment.polarity]
+
+for num in range(0,len(spotlight1)-1):
+	spotlight1 = spotlight[0]
+	spotlight2 = spotlight1[num]['text']
+	spotlight3 = tokenize(spotlight2)
+	corpus_spotlight = clean(spotlight3)
+	delete_list = ['Spotlight Movie','Spotlight','Movie','Spotlight The Movie','Spotlight the Movie','spotlight movie','spotlight the movie','#SpotlightMovie','#spotlightmovie','#SpotlightTheMovie','#SpotlighttheMovie','#spotlightthemovie','@SpotlightMovie']
+	for word in delete_list:
+		corpus_spotlight = corpus_spotlight.replace(word, "")
+	testimonial = TextBlob(corpus_spotlight)
+	table = aList.append(testimonial.sentiment.polarity)
+
+
+spotlight1 = spotlight[0]
+spotlight2 = spotlight1[0]['text']
+spotlight3 = tokenize(spotlight2)
+corpus_spotlight = clean(spotlight3)
+delete_list = ['Spotlight Movie','Spotlight','Movie','Spotlight The Movie','Spotlight the Movie','spotlight movie','spotlight the movie','#SpotlightMovie','#spotlightmovie','#SpotlightTheMovie','#SpotlighttheMovie','#spotlightthemovie','@SpotlightMovie']
+for word in delete_list:
+	corpus_spotlight = corpus_spotlight.replace(word, "")
+
+bList = [corpus_spotlight]
+
+for num in range(0,len(spotlight1)-1):
+	spotlight1 = spotlight[0]
+	spotlight2 = spotlight1[num]['text']
+	spotlight3 = tokenize(spotlight2)
+	corpus_spotlight = clean(spotlight3)
+	delete_list = ['Spotlight Movie','Spotlight','Movie','Spotlight The Movie','Spotlight the Movie','spotlight movie','spotlight the movie','#SpotlightMovie','#spotlightmovie','#SpotlightTheMovie','#SpotlighttheMovie','#spotlightthemovie','@SpotlightMovie']
+	for word in delete_list:
+		corpus_spotlight = corpus_spotlight.replace(word, "")
+	table = bList.append(corpus_spotlight)
+
+
+negind = negfind(aList)
+posind = posfind(aList)
+neuind = neufind(aList)
+
+negspo = []
+for i in negind:
+	negspo.append(bList[i])
+
+posspo = []
+for i in posind:
+	posspo.append(bList[i])
+
+neuspo = []
+for i in neuind:
+	neuspo.append(bList[i])
+
+
+
+# Import the packages needed to count words
+import urllib
+import operator
+
+# Count the top 20 frequent words mentioned in the negative tweets of the Revenant
+negrev1 = ', '.join(negrev)
+negrev_count = {}
+for word in negrev1.split(" "): # split in every space.
+	if len(word) > 0 and word != '\r\n':
+		if word not in negrev_count: # if 'word' not in word_counter, add it, and set value to 1
+            		negrev_count[word] = 1
+		else:
+			negrev_count[word] += 1 # if 'word' already in word_counter, increment it by 1
+
+for i,word in enumerate(sorted(negrev_count,key=negrev_count.get,reverse=True)[:20]):
+    # sorts the dict by the values, from top to botton, takes the 10 top items,
+		print (i+1,word,negrev_count[word])
+
+# Count the top 20 frequent words mentioned in the positive tweets of the Revenant
+posrev1 = ', '.join(posrev)
+posrev_count = {}
+for word in posrev1.split(" "): # split in every space.
+	if len(word) > 0 and word != '\r\n':
+		if word not in posrev_count: # if 'word' not in word_counter, add it, and set value to 1
+            		posrev_count[word] = 1
+		else:
+			posrev_count[word] += 1 # if 'word' already in word_counter, increment it by 1
+
+for i,word in enumerate(sorted(posrev_count,key=posrev_count.get,reverse=True)[:20]):
+    # sorts the dict by the values, from top to botton, takes the 10 top items,
+		print (i+1,word,posrev_count[word])
+
+
+# Count the top 20 frequent words mentioned in the positive tweets of the Brooklyn
+posbro1 = ', '.join(posbro)
+posbro_count = {}
+for word in posbro1.split(" "): # split in every space.
+	if len(word) > 0 and word != '\r\n':
+		if word not in posbro_count: # if 'word' not in word_counter, add it, and set value to 1
+            		posbro_count[word] = 1
+		else:
+			posbro_count[word] += 1 # if 'word' already in word_counter, increment it by 1
+
+for i,word in enumerate(sorted(posbro_count,key=posbro_count.get,reverse=True)[:20]):
+    # sorts the dict by the values, from top to botton, takes the 10 top items,
+		print (i+1,word,posbro_count[word])
+
+
+# Count the top 20 frequent words mentioned in the positive tweets of the Spotlight
+posspo1 = ', '.join(posspo)
+posspo_count = {}
+for word in posspo1.split(" "): # split in every space.
+	if len(word) > 0 and word != '\r\n':
+		if word not in posspo_count: # if 'word' not in word_counter, add it, and set value to 1
+            		posspo_count[word] = 1
+		else:
+			posspo_count[word] += 1 # if 'word' already in word_counter, increment it by 1
+
+for i,word in enumerate(sorted(posspo_count,key=posspo_count.get,reverse=True)[:20]):
+    # sorts the dict by the values, from top to botton, takes the 10 top items,
+		print (i+1,word,posspo_count[word])
+
+
+# Count the top 20 frequent words mentioned in the negative tweets of the Brooklyn
+negbro1 = ', '.join(negbro)
+negbro_count = {}
+for word in negbro1.split(" "): # split in every space.
+	if len(word) > 0 and word != '\r\n':
+		if word not in negbro_count: # if 'word' not in word_counter, add it, and set value to 1
+            		negbro_count[word] = 1
+		else:
+			negbro_count[word] += 1 # if 'word' already in word_counter, increment it by 1
+
+for i,word in enumerate(sorted(negbro_count,key=negbro_count.get,reverse=True)[:20]):
+    # sorts the dict by the values, from top to botton, takes the 10 top items,
+		print (i+1,word,negbro_count[word])
+
+
+# Count the top 20 frequent words mentioned in the negative tweets of the Spotlight
+negspo1 = ', '.join(negspo)
+negspo_count = {}
+for word in negspo1.split(" "): # split in every space.
+	if len(word) > 0 and word != '\r\n':
+		if word not in negspo_count: # if 'word' not in word_counter, add it, and set value to 1
+            		negspo_count[word] = 1
+		else:
+			negspo_count[word] += 1 # if 'word' already in word_counter, increment it by 1
+
+for i,word in enumerate(sorted(negspo_count,key=negspo_count.get,reverse=True)[:20]):
+    # sorts the dict by the values, from top to botton, takes the 10 top items,
+		print (i+1,word,negspo_count[word])
+
+
+# Write json files for the four outputs: negrev, posrev, negspo, posspo
+with open("negrev.json", "w") as f:
+	json.dump(negrev, f, indent=4, sort_keys=True)
+
+with open("posrev.json", "w") as f:
+	json.dump(posrev, f, indent=4, sort_keys=True)
+
+with open("negspo.json", "w") as f:
+	json.dump(negspo, f, indent=4, sort_keys=True)
+
+with open("posspo.json", "w") as f:
+	json.dump(posspo, f, indent=4, sort_keys=True)

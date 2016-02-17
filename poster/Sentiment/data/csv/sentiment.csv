@@ -1,0 +1,24 @@
+1Mad Max,positive,20
+2Revenant,positive,25
+3Bridge of Spies,positive,28
+4Room,positive,31
+5Martian,positive,37
+6Brooklyn,positive,41
+7Big Short,positive,50
+8Spotlight,positive,57
+1Mad Max,neutral,74
+2Revenant,neutral,72
+3Bridge of Spies,neutral,62
+4Room,neutral,63
+5Martian,neutral,57
+6Brooklyn,neutral,52
+7Big Short,neutral,43
+8Spotlight,neutral,40
+1Mad Max,negative,6
+2Revenant,negative,3
+3Bridge of Spies,negative,10
+4Room,negative,6
+5Martian,negative,6
+6Brooklyn,negative,7
+7Big Short,negative,7
+8Spotlight,negative,3
