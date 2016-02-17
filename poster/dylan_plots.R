@@ -1,5 +1,4 @@
 library(ggplot2)
-library(GGally)
 # NOTE: add last year's winner as horizontal line
 
 setwd('~/stat222/twitter')
@@ -35,16 +34,16 @@ movieData[,1] <- NULL
 
 scatterPlot <- function (data, xVar, yVar, label, title, xlab, ylab) {
   ggplot(data=data, mapping=aes_string(x=xVar, y=yVar, label=label, color=label)) + 
-    geom_point(size=3, color=movie_colors) + 
+    geom_point(size=8, color=movie_colors) + 
     ggtitle(title) +
     labs(x=xlab, y=ylab) +
     theme(legend.position='none') +# removes legend
     theme(axis.text=element_text(size=12),
-          axis.title=element_text(size=14,face="bold"),
-          title=element_text(size=14, face='bold'))
+          axis.title=element_text(size=20,face="bold"),
+          title=element_text(size=20, face='bold'))
 }
 
-defaultTextLabelSize <- 4
+defaultTextLabelSize <- 6
 
 plotBoxOfficeVsTweets <- function () {
   p <- scatterPlot(movieData, 'count', 'boxOffice', 'Name',
@@ -92,7 +91,7 @@ plotSentimentVsBoxOffice <- function () {
                    'Sentiment Score', 
                    'Total box office earnings (as of 2/13/16)')
   p <- p + scale_y_continuous(label=function(x){return(paste0("$", x / 1e6, 'M'))})
-  p + geom_text(color='black')
+  p + geom_text(color='black', size = defaultTextLabelSize, hjust='inward')
 }
 
 plotSentimentVsRottenTomatoes <- function () {
@@ -100,7 +99,7 @@ plotSentimentVsRottenTomatoes <- function () {
                    'Rotten Tomatoes Score vs. Sentiment Score',
                    'Sentiment Score', 
                    'Rotten Tomatoes Tomatometer Score')
-  p + geom_text(color='black')
+  p + geom_text(color='black', size = defaultTextLabelSize, hjust='inward')
 }
 
 plotRottenTomatoesVsBoxOffice <- function () {
@@ -109,9 +108,22 @@ plotRottenTomatoesVsBoxOffice <- function () {
                    'Rotten Tomatoes Tomtometer Score', 
                    'Total box office earnings (as of 2/13/16)')
   p <- p + scale_y_continuous(label=function(x){return(paste0("$", x / 1e6, 'M'))})
-  p + geom_text(color='black')
+  p + geom_text(color='black', size = defaultTextLabelSize, hjust='inward')
 }
 
-plotLattice <- function () {
-  ggpairs(data=movieData, c(1,2,4,5))
+savePlot <- function (plotName, plotFun, width, height) {
+  setwd('~/stat222/twitter/poster/scatterplots')
+  ggsave(filename=paste0(plotName, '.png'), plot=plotFun(), width=width, height=height)
 }
+
+defaultWidthInches <- 12
+defaultHeightInches <-8 
+savePlot('boxOfficeVsTweets', plotBoxOfficeVsTweets, defaultWidthInches, defaultHeightInches)
+savePlot('rtVsBoxOffice', plotRottenTomatoesVsBoxOffice, defaultWidthInches, defaultHeightInches)
+savePlot('rtVsTweets', plotRottenTomatoesVsTweets, defaultWidthInches, defaultHeightInches)
+savePlot('sentimentVsRt', plotSentimentVsRottenTomatoes, defaultWidthInches, defaultHeightInches)
+savePlot('sentimentVsBoxOffice', plotSentimentVsBoxOffice, defaultWidthInches, defaultHeightInches)
+savePlot('sentimentVsTweets', plotSentimentVsTweets, defaultWidthInches, defaultHeightInches)
+
+
+#plotBoxOfficeVsTweets()
