@@ -1,0 +1,552 @@
+{
+    "search_bradpitt.json": [
+        [
+            0,
+            "0.077*pitt + 0.075*brad + 0.034*hold + 0.034*sooyoung + 0.034*lmfao + 0.034*mask + 0.029*joli + 0.028*angelina + 0.011*dan + 0.010*di"
+        ],
+        [
+            1,
+            "0.092*pitt + 0.092*brad + 0.011*angelina + 0.011*joli + 0.010*que + 0.008*look + 0.007*la + 0.007*y + 0.006*get + 0.006*like"
+        ],
+        [
+            2,
+            "0.075*e + 0.069*pitt + 0.068*brad + 0.046*mo + 0.046*dada + 0.046*loui + 0.028*angelina + 0.024*ma + 0.024*harri + 0.023*amor"
+        ],
+        [
+            3,
+            "0.039*dvd + 0.031*angelina + 0.030*joli + 0.030*pitt + 0.030*brad + 0.019*8x10 + 0.014*new + 0.013*weight + 0.012*mr + 0.012*amp"
+        ],
+        [
+            4,
+            "0.009*lift + 0.009*face + 0.009*keep + 0.008*curiou + 0.008*case + 0.008*look + 0.006*y + 0.005*por + 0.005*amor + 0.004*mi"
+        ]
+    ],
+    "search_brielarson.json": [
+        [
+            0,
+            "0.000*brie + 0.000*larson + 0.000*ronan + 0.000*lupita + 0.000*2016 + 0.000*leibovitz + 0.000*vaniti + 0.000*saoirs + 0.000*nyongo + 0.000*fair"
+        ],
+        [
+            1,
+            "0.013*la + 0.011*room + 0.009*e + 0.008*watch + 0.007*per + 0.006*left + 0.006*awestruck + 0.006*con + 0.005*final + 0.005*it"
+        ],
+        [
+            2,
+            "0.085*brie + 0.084*larson + 0.018*oscar + 0.014*2016 + 0.013*fair + 0.013*vaniti + 0.013*e + 0.012*star + 0.011*jacob + 0.011*tanner"
+        ],
+        [
+            3,
+            "0.086*brie + 0.085*larson + 0.019*room + 0.019*oscar + 0.015*award + 0.012*best + 0.012*sag + 0.010*role + 0.010*2016 + 0.009*lawrenc"
+        ],
+        [
+            4,
+            "0.077*brie + 0.076*larson + 0.055*vaniti + 0.055*fair + 0.054*2016 + 0.052*lupita + 0.052*vikand + 0.052*alicia + 0.052*nyongo + 0.052*saoirs"
+        ]
+    ],
+    "search_charlizetheron.json": [
+        [
+            0,
+            "0.047*sean + 0.044*penn + 0.035*8x10 + 0.034*star + 0.029*glossi + 0.025*celebr + 0.025*movi + 0.021*new + 0.021*photo + 0.014*dvd"
+        ],
+        [
+            1,
+            "0.121*charliz + 0.120*theron + 0.014*90 + 0.011*8x10 + 0.010*2015 + 0.010*max + 0.009*photo + 0.009*mad + 0.006*katrina + 0.006*pictur"
+        ],
+        [
+            2,
+            "0.054*8x10 + 0.044*photo + 0.040*sean + 0.039*penn + 0.038*glossi + 0.033*movi + 0.028*celebr + 0.027*star + 0.024*sign + 0.021*autograph"
+        ],
+        [
+            3,
+            "0.049*penn + 0.047*sean + 0.043*8x10 + 0.035*photo + 0.026*glossi + 0.024*movi + 0.019*celebr + 0.019*dvd + 0.018*star + 0.017*weight"
+        ],
+        [
+            4,
+            "0.069*hot + 0.067*sexi + 0.065*photo + 0.065*pictur + 0.061*8x10 + 0.030*candid + 0.027*pic + 0.023*star + 0.014*film + 0.013*actor"
+        ]
+    ],
+    "search_christianbale.json": [
+        [
+            0,
+            "0.031*bale + 0.030*christian + 0.022*award + 0.020*birthday + 0.019*happi + 0.018*sag + 0.012*2016 + 0.009*22nd + 0.009*big + 0.009*actor"
+        ],
+        [
+            1,
+            "0.103*christian + 0.102*bale + 0.015*batman + 0.011*actor + 0.010*42 + 0.010*su + 0.010*ao + 0.010*que + 0.008*hoy + 0.008*knight"
+        ],
+        [
+            2,
+            "0.034*happi + 0.033*birthday + 0.032*42 + 0.024*christian + 0.023*bale + 0.022*cumpl + 0.018*que + 0.015*un + 0.014*ao + 0.013*actor"
+        ],
+        [
+            3,
+            "0.041*birthday + 0.040*happi + 0.029*42 + 0.028*actor + 0.023*hoy + 0.020*un + 0.020*es + 0.020*que + 0.018*cumpl + 0.017*bale"
+        ],
+        [
+            4,
+            "0.042*bale + 0.041*christian + 0.022*dapatkan + 0.020*knight + 0.020*tahun + 0.020*ulang + 0.019*ciuman + 0.019*mesra + 0.015*cup + 0.012*new"
+        ]
+    ],
+    "search_domhnallgleeson.json": [
+        [
+            0,
+            "0.052*domhnal + 0.052*gleeson + 0.011*oscar + 0.010*dicaprio + 0.009*nomin + 0.009*leonardo + 0.008*gt + 0.008*talk + 0.008*role + 0.008*video"
+        ],
+        [
+            1,
+            "0.090*domhnal + 0.089*gleeson + 0.013*name + 0.012*oscar + 0.010*laugh + 0.010*w + 0.010*problemat + 0.010*knee + 0.010*grab + 0.010*m"
+        ],
+        [
+            2,
+            "0.089*domhnal + 0.087*gleeson + 0.018*oscar + 0.011*film + 0.009*nomin + 0.008*amp + 0.008*que + 0.008*isaac + 0.008*reven + 0.007*2015"
+        ],
+        [
+            3,
+            "0.000*domhnal + 0.000*gleeson + 0.000*oscar + 0.000*dicaprio + 0.000*leonardo + 0.000*reven + 0.000*film + 0.000*2015 + 0.000*name + 0.000*dumbl"
+        ],
+        [
+            4,
+            "0.081*gleeson + 0.080*domhnal + 0.023*dicaprio + 0.022*leonardo + 0.016*dumbl + 0.013*name + 0.012*call + 0.008*movi + 0.008*award + 0.008*watch"
+        ]
+    ],
+    "search_emorycohen.json": [
+        [
+            0,
+            "0.002*835 + 0.002*285 + 0.002*updat + 0.002*rank + 0.002*cohen + 0.002*emori + 0.002*brooklyn + 0.002*ronan + 0.002*steal + 0.002*saoirs"
+        ],
+        [
+            1,
+            "0.002*cohen + 0.002*emori + 0.002*285 + 0.002*updat + 0.002*rank + 0.002*835 + 0.002*brooklyn + 0.002*ronan + 0.002*saoirs + 0.002*steal"
+        ],
+        [
+            2,
+            "0.083*cohen + 0.082*emori + 0.045*brooklyn + 0.027*steal + 0.025*breakout + 0.024*saoirs + 0.023*convict + 0.023*exclus + 0.023*troubl + 0.021*ronan"
+        ],
+        [
+            3,
+            "0.002*835 + 0.002*285 + 0.002*updat + 0.002*rank + 0.002*cohen + 0.002*emori + 0.002*brooklyn + 0.002*ronan + 0.002*breakout + 0.002*steal"
+        ],
+        [
+            4,
+            "0.067*emori + 0.061*cohen + 0.030*brooklyn + 0.017*ronan + 0.016*saoirs + 0.015*film + 0.013*check + 0.012*steal + 0.011*dvd + 0.011*come"
+        ]
+    ],
+    "search_jacobtremblay.json": [
+        [
+            0,
+            "0.120*jacob + 0.119*tremblay + 0.076*charm + 0.049*watch + 0.048*ellen + 0.046*pant + 0.045*degener + 0.023*way + 0.020*awa + 0.016*dicaprio"
+        ],
+        [
+            1,
+            "0.107*jacob + 0.107*tremblay + 0.028*award + 0.027*sag + 0.021*leo + 0.020*di + 0.020*beri + 0.020*saat + 0.020*cerita + 0.020*say"
+        ],
+        [
+            2,
+            "0.106*jacob + 0.106*tremblay + 0.042*dicaprio + 0.033*leonardo + 0.030*meet + 0.027*award + 0.025*sag + 0.022*ellen + 0.022*line + 0.019*ador"
+        ],
+        [
+            3,
+            "0.113*jacob + 0.113*tremblay + 0.107*leonardo + 0.106*dicaprio + 0.064*met + 0.051*recount + 0.030*explain + 0.030*ellen + 0.028*via + 0.028*he"
+        ],
+        [
+            4,
+            "0.016*actor + 0.012*cute + 0.011*award + 0.011*que + 0.010*credit + 0.009*o + 0.009*take + 0.009*cumpli + 0.009*sueo + 0.009*pequeo"
+        ]
+    ],
+    "search_jimbroadbent.json": [
+        [
+            0,
+            "0.091*jim + 0.090*broadbent + 0.012*end + 0.010*it + 0.009*best + 0.009*see + 0.008*ben + 0.008*carol + 0.008*christma + 0.008*star"
+        ],
+        [
+            1,
+            "0.001*broadbent + 0.001*jim + 0.001*read + 0.001*virgin + 0.001*bill + 0.001*nighi + 0.001*super + 0.001*far + 0.001*hope + 0.001*paul"
+        ],
+        [
+            2,
+            "0.090*jim + 0.089*broadbent + 0.009*amp + 0.009*peac + 0.009*war + 0.008*love + 0.008*great + 0.007*it + 0.007*scene + 0.007*last"
+        ],
+        [
+            3,
+            "0.074*jim + 0.072*broadbent + 0.042*amp + 0.039*farrel + 0.039*cumberbatch + 0.039*colin + 0.039*danci + 0.039*benedict + 0.039*mcavoy + 0.039*hugh"
+        ],
+        [
+            4,
+            "0.001*jim + 0.001*broadbent + 0.001*amp + 0.001*jame + 0.001*benedict + 0.001*talk + 0.001*colin + 0.001*farrel + 0.001*mcavoy + 0.001*hugh"
+        ]
+    ],
+    "search_johnslattery.json": [
+        [
+            0,
+            "0.067*slatteri + 0.067*john + 0.041*ruffalo + 0.041*mark + 0.038*schreiber + 0.038*liev + 0.038*jame + 0.038*brian + 0.038*darci + 0.037*michael"
+        ],
+        [
+            1,
+            "0.107*slatteri + 0.106*john + 0.028*suit + 0.028*game + 0.015*spotlight + 0.012*win + 0.012*hamm + 0.011*trifecta + 0.011*hey + 0.011*act"
+        ],
+        [
+            2,
+            "0.001*john + 0.001*slatteri + 0.001*enlighten + 0.001*investig + 0.001*schreiber + 0.001*it + 0.001*felt + 0.001*see + 0.001*mark + 0.001*michael"
+        ],
+        [
+            3,
+            "0.027*john + 0.027*slatteri + 0.014*stanley + 0.014*tucci + 0.013*spotlight + 0.011*heard + 0.011*crous + 0.011*podcast + 0.011*hous + 0.008*liev"
+        ],
+        [
+            4,
+            "0.085*john + 0.083*slatteri + 0.023*journal + 0.022*investig + 0.022*enlighten + 0.022*felt + 0.015*award + 0.013*sag + 0.009*su + 0.009*film"
+        ]
+    ],
+    "search_juliewalters.json": [
+        [
+            0,
+            "0.071*walter + 0.070*juli + 0.036*journey + 0.036*complet + 0.036*show + 0.035*amp + 0.034*john + 0.034*crowley + 0.030*immigr + 0.028*brooklyn"
+        ],
+        [
+            1,
+            "0.003*juli + 0.003*walter + 0.003*show + 0.003*complet + 0.003*journey + 0.003*amp + 0.003*crowley + 0.003*john + 0.003*brooklyn + 0.003*immigr"
+        ],
+        [
+            2,
+            "0.003*walter + 0.003*juli + 0.003*complet + 0.003*john + 0.003*journey + 0.003*show + 0.003*amp + 0.003*crowley + 0.003*immigr + 0.003*brooklyn"
+        ],
+        [
+            3,
+            "0.003*juli + 0.003*walter + 0.003*journey + 0.003*complet + 0.003*crowley + 0.003*john + 0.003*show + 0.003*amp + 0.003*immigr + 0.003*brooklyn"
+        ],
+        [
+            4,
+            "0.003*juli + 0.003*walter + 0.003*crowley + 0.003*show + 0.003*journey + 0.003*amp + 0.003*brooklyn + 0.003*immigr + 0.003*complet + 0.003*john"
+        ]
+    ],
+    "search_leodicaprio.json": [
+        [
+            0,
+            "0.135*dicaprio + 0.134*leonardo + 0.071*kate + 0.071*winslet + 0.063*now + 0.019*oscar + 0.010*o + 0.010*que + 0.006*reven + 0.006*la"
+        ],
+        [
+            1,
+            "0.040*leo + 0.034*dicaprio + 0.017*oscar + 0.014*dan + 0.011*que + 0.010*se + 0.010*un + 0.009*la + 0.009*semain + 0.009*cett"
+        ],
+        [
+            2,
+            "0.054*leo + 0.045*dicaprio + 0.022*se + 0.018*cri + 0.018*orihuela + 0.014*new + 0.011*met + 0.011*vatican + 0.011*today + 0.011*que"
+        ],
+        [
+            3,
+            "0.019*ycie + 0.017*modi + 0.011*wspominaam + 0.011*wiata + 0.011*cud + 0.011*smi + 0.010*ju + 0.010*idealni + 0.009*sound + 0.006*jest"
+        ],
+        [
+            4,
+            "0.151*dicaprio + 0.149*leonardo + 0.024*oscar + 0.014*o + 0.008*que + 0.006*kate + 0.006*winslet + 0.006*90 + 0.005*reven + 0.005*e"
+        ]
+    ],
+    "search_lievschreiber.json": [
+        [
+            0,
+            "0.002*schreiber + 0.002*amp + 0.002*liev + 0.002*three + 0.002*involv + 0.002*crowd + 0.002*watt + 0.002*never + 0.002*2016 + 0.002*via"
+        ],
+        [
+            1,
+            "0.002*never + 0.002*schreiber + 0.002*liev + 0.002*amp + 0.002*three + 0.002*involv + 0.002*crowd + 0.002*watt + 0.002*naomi + 0.002*forevah"
+        ],
+        [
+            2,
+            "0.027*movi + 0.023*review + 0.019*it + 0.014*toward + 0.014*head + 0.014*divorc + 0.014*1085 + 0.010*over + 0.010*m + 0.010*oscar"
+        ],
+        [
+            3,
+            "0.086*schreiber + 0.086*liev + 0.026*naomi + 0.026*watt + 0.013*scott + 0.013*grace + 0.013*moretz + 0.013*chlo + 0.013*film + 0.011*john"
+        ],
+        [
+            4,
+            "0.038*amp + 0.036*crowd + 0.036*involv + 0.036*three + 0.036*never + 0.017*liev + 0.017*schreiber + 0.013*friend + 0.013*forevah + 0.012*con"
+        ]
+    ],
+    "search_markruffalo.json": [
+        [
+            0,
+            "0.096*mark + 0.095*ruffalo + 0.019*hulk + 0.018*y + 0.018*que + 0.014*un + 0.012*thor + 0.011*papel + 0.011*important + 0.011*tendr"
+        ],
+        [
+            1,
+            "0.077*mark + 0.076*ruffalo + 0.024*spotlight + 0.020*sag + 0.019*win + 0.018*award + 0.014*moment + 0.013*wife + 0.013*watt + 0.013*naomi"
+        ],
+        [
+            2,
+            "0.060*mark + 0.060*ruffalo + 0.013*campaign + 0.013*spotlight + 0.011*hulk + 0.009*violat + 0.009*law + 0.009*financ + 0.008*film + 0.007*movi"
+        ],
+        [
+            3,
+            "0.093*mark + 0.091*ruffalo + 0.034*spotlight + 0.018*fantast + 0.018*hulk + 0.018*work + 0.018*bud + 0.011*aveng + 0.011*talk + 0.011*movi"
+        ],
+        [
+            4,
+            "0.089*mark + 0.082*ruffalo + 0.027*actor + 0.026*award + 0.025*22nd + 0.025*annual + 0.024*screen + 0.023*guild + 0.022*mcadam + 0.020*amp"
+        ]
+    ],
+    "search_markrylance.json": [
+        [
+            0,
+            "0.060*mark + 0.059*rylanc + 0.024*bridg + 0.024*spi + 0.021*actor + 0.019*oscar + 0.017*hank + 0.017*tom + 0.012*dvd + 0.009*steven"
+        ],
+        [
+            1,
+            "0.077*rylanc + 0.077*mark + 0.041*spi + 0.041*bridg + 0.022*watch + 0.022*oscarnomin + 0.022*oscarreadi + 0.022*subterfug + 0.020*oscar + 0.018*role"
+        ],
+        [
+            2,
+            "0.001*mark + 0.001*rylanc + 0.001*bridg + 0.001*spi + 0.001*oscar + 0.001*actor + 0.001*nomine + 0.001*lo + 0.001*role + 0.001*bale"
+        ],
+        [
+            3,
+            "0.080*mark + 0.077*rylanc + 0.015*spi + 0.014*bridg + 0.014*actor + 0.011*oscar + 0.011*tom + 0.009*lo + 0.008*hank + 0.008*elba"
+        ],
+        [
+            4,
+            "0.045*mark + 0.045*rylanc + 0.027*lo + 0.021*actor + 0.015*support + 0.014*best + 0.013*2015 + 0.013*puent + 0.013*espa + 0.013*el"
+        ]
+    ],
+    "search_mattdamon.json": [
+        [
+            0,
+            "0.102*matt + 0.102*damon + 0.011*martian + 0.007*movi + 0.006*water + 0.005*crisi + 0.005*mar + 0.005*like + 0.005*film + 0.005*bourn"
+        ],
+        [
+            1,
+            "0.024*la + 0.023*por + 0.022*debe + 0.022*hacer + 0.022*ms + 0.022*mucho + 0.021*diversidad + 0.021*hollywood + 0.019*matt + 0.018*damon"
+        ],
+        [
+            2,
+            "0.044*matt + 0.043*damon + 0.011*la + 0.011*e + 0.008*bourn + 0.008*em + 0.008*pra + 0.008*johansson + 0.008*scarlett + 0.008*vem"
+        ],
+        [
+            3,
+            "0.092*matt + 0.091*damon + 0.018*water + 0.015*crisi + 0.015*resign + 0.014*michigan + 0.014*flint + 0.014*governor + 0.011*martian + 0.011*slam"
+        ],
+        [
+            4,
+            "0.056*damon + 0.044*matt + 0.033*suburbicon + 0.028*georg + 0.020*fart + 0.020*song + 0.020*angel + 0.018*clooney + 0.015*plot + 0.014*detail"
+        ]
+    ],
+    "search_michaelkeaton.json": [
+        [
+            0,
+            "0.082*michael + 0.079*keaton + 0.025*award + 0.023*flint + 0.022*sag + 0.021*dedic + 0.017*resid + 0.011*spotlight + 0.008*mark + 0.008*film"
+        ],
+        [
+            1,
+            "0.016*alway + 0.014*watch + 0.013*review + 0.011*keaton + 0.010*act + 0.010*work + 0.010*hard + 0.010*sens + 0.010*life + 0.010*spotlight"
+        ],
+        [
+            2,
+            "0.027*could + 0.023*spotlight + 0.015*1085 + 0.015*go + 0.015*ever + 0.014*find + 0.014*without + 0.014*gosl + 0.014*parti + 0.014*ryan"
+        ],
+        [
+            3,
+            "0.001*keaton + 0.001*michael + 0.001*award + 0.001*sag + 0.001*dedic + 0.001*flint + 0.001*spotlight + 0.001*amp + 0.001*resid + 0.001*film"
+        ],
+        [
+            4,
+            "0.020*one + 0.018*watch + 0.018*spotlight + 0.016*even + 0.016*highlight + 0.016*act + 0.016*2nd + 0.016*continu + 0.016*splendid + 0.016*grace"
+        ]
+    ],
+    "search_nicholashoult.json": [
+        [
+            0,
+            "0.000*hoult + 0.000*nichola + 0.000*jd + 0.000*se + 0.000*biopic + 0.000*saling + 0.000*spacey + 0.000*kevin + 0.000*pic + 0.000*film"
+        ],
+        [
+            1,
+            "0.177*hoult + 0.176*nichola + 0.012*in + 0.012*jennif + 0.012*lawrenc + 0.011*skin + 0.009*kristen + 0.008*stewart + 0.008*toni + 0.007*stonem"
+        ],
+        [
+            2,
+            "0.074*hoult + 0.073*nichola + 0.023*set + 0.023*mcavoy + 0.022*michael + 0.022*jackman + 0.022*fassbend + 0.022*jame + 0.022*hugh + 0.022*dofp"
+        ],
+        [
+            3,
+            "0.098*nichola + 0.097*hoult + 0.055*film + 0.054*venic + 0.053*pic + 0.052*festiv + 0.047*newold + 0.039*premier + 0.038*equal + 0.023*amp"
+        ],
+        [
+            4,
+            "0.101*nichola + 0.101*hoult + 0.052*jd + 0.052*kevin + 0.052*spacey + 0.052*saling + 0.051*biopic + 0.050*se + 0.050*une + 0.012*beast"
+        ]
+    ],
+    "search_rachelmcadams.json": [
+        [
+            0,
+            "0.000*rachel + 0.000*mcadam + 0.000*award + 0.000*amp + 0.000*2016 + 0.000*it + 0.000*amaz + 0.000*canadian + 0.000*see + 0.000*spotlight"
+        ],
+        [
+            1,
+            "0.036*canadian + 0.033*fellow + 0.028*amp + 0.016*award + 0.015*rachel + 0.013*2016 + 0.012*look + 0.012*best + 0.011*red + 0.011*carpet"
+        ],
+        [
+            2,
+            "0.044*rachel + 0.043*mcadam + 0.016*spotlight + 0.013*end + 0.012*film + 0.010*date + 0.010*review + 0.009*nomin + 0.009*award + 0.008*movi"
+        ],
+        [
+            3,
+            "0.028*award + 0.025*rachel + 0.022*2016 + 0.021*mcadam + 0.017*wow + 0.016*actor + 0.015*screen + 0.015*must + 0.015*go + 0.015*con"
+        ],
+        [
+            4,
+            "0.084*rachel + 0.084*mcadam + 0.028*notebook + 0.027*gosl + 0.027*ryan + 0.024*film + 0.021*the + 0.019*hate + 0.012*spotlight + 0.011*award"
+        ]
+    ],
+    "search_ryangosling.json": [
+        [
+            0,
+            "0.042*ryan + 0.041*gosl + 0.018*notebook + 0.018*the + 0.017*film + 0.016*rachel + 0.016*hate + 0.015*night + 0.015*mcadam + 0.015*director"
+        ],
+        [
+            1,
+            "0.103*ryan + 0.100*gosl + 0.053*go + 0.029*movi + 0.027*got + 0.027*time + 0.026*cast + 0.026*tweet + 0.026*set + 0.026*streak"
+        ],
+        [
+            2,
+            "0.021*gosl + 0.020*blade + 0.020*ryan + 0.019*runner + 0.015*la + 0.012*juli + 0.011*2 + 0.011*film + 0.011*con + 0.010*begin"
+        ],
+        [
+            3,
+            "0.019*turner + 0.019*sophi + 0.012*fan + 0.012*prouv + 0.011*sur + 0.011*ryan + 0.011*le + 0.011*gosl + 0.011*est + 0.010*et"
+        ],
+        [
+            4,
+            "0.069*ryan + 0.068*gosl + 0.035*go + 0.019*set + 0.018*movi + 0.017*time + 0.017*got + 0.017*streak + 0.017*cast + 0.017*tweet"
+        ]
+    ],
+    "search_saoirseronan.json": [
+        [
+            0,
+            "0.081*ronan + 0.080*saoirs + 0.060*vaniti + 0.060*fair + 0.054*alicia + 0.054*vikand + 0.054*larson + 0.054*brie + 0.054*2016 + 0.054*anni"
+        ],
+        [
+            1,
+            "0.042*saoirs + 0.042*ronan + 0.026*updat + 0.025*via + 0.025*check + 0.024*latest + 0.019*brooklyn + 0.015*nomine + 0.014*ht + 0.014*award"
+        ],
+        [
+            2,
+            "0.077*saoirs + 0.067*ronan + 0.032*via + 0.029*updat + 0.028*latest + 0.027*check + 0.023*hollywood + 0.018*issu + 0.013*vaniti + 0.013*fair"
+        ],
+        [
+            3,
+            "0.024*look + 0.020*ronan + 0.020*saoirs + 0.015*award + 0.010*screen + 0.010*best + 0.010*star + 0.010*love + 0.009*nomine + 0.009*actor"
+        ],
+        [
+            4,
+            "0.022*week + 0.021*more + 0.021*were + 0.021*hold + 0.020*retrospect + 0.019*learn + 0.014*amp + 0.012*ronan + 0.012*saoirs + 0.010*new"
+        ]
+    ],
+    "search_stanleytucci.json": [
+        [
+            0,
+            "0.073*tucci + 0.073*stanley + 0.070*get + 0.070*like + 0.069*credit + 0.069*everi + 0.069*role + 0.069*enough + 0.069*streep + 0.069*male"
+        ],
+        [
+            1,
+            "0.074*tucci + 0.074*stanley + 0.038*watch + 0.034*movi + 0.033*near + 0.032*way + 0.032*move + 0.032*reynold + 0.032*sit + 0.032*ur"
+        ],
+        [
+            2,
+            "0.046*tucci + 0.044*stanley + 0.041*bring + 0.040*meryl + 0.039*doesnt + 0.039*100 + 0.039*like + 0.039*male + 0.039*streep + 0.037*get"
+        ],
+        [
+            3,
+            "0.078*tucci + 0.078*stanley + 0.035*night + 0.034*big + 0.022*revolut + 0.022*help + 0.021*american + 0.021*dine + 0.020*kick + 0.011*film"
+        ],
+        [
+            4,
+            "0.073*tucci + 0.073*stanley + 0.072*portrait + 0.071*final + 0.068*financ + 0.065*riverston + 0.065*pictur + 0.063*get + 0.014*geoffrey + 0.013*rush"
+        ]
+    ],
+    "search_stevecarell.json": [
+        [
+            0,
+            "0.070*carel + 0.069*steve + 0.065*juliann + 0.064*moor + 0.059*y + 0.051*oscar + 0.043*un + 0.042*presentarn + 0.027*lo + 0.025*la"
+        ],
+        [
+            1,
+            "0.088*carel + 0.088*steve + 0.067*lo + 0.039*oscar + 0.038*moor + 0.038*presentador + 0.038*y + 0.037*juliann + 0.027*entr + 0.024*kerri"
+        ],
+        [
+            2,
+            "0.001*steve + 0.001*carel + 0.001*oscar + 0.001*y + 0.001*moor + 0.001*big + 0.001*lo + 0.001*presentador + 0.001*juliann + 0.001*short"
+        ],
+        [
+            3,
+            "0.030*big + 0.025*short + 0.019*steve + 0.017*carel + 0.012*talk + 0.011*award + 0.010*movi + 0.008*2 + 0.007*con + 0.007*sag"
+        ],
+        [
+            4,
+            "0.027*oscar + 0.019*big + 0.019*priyanka + 0.019*short + 0.018*present + 0.018*award + 0.016*chopra + 0.013*2016 + 0.008*one + 0.007*la"
+        ]
+    ],
+    "search_tomhanks.json": [
+        [
+            0,
+            "0.024*tom + 0.023*hank + 0.017*la + 0.008*y + 0.007*like + 0.007*amp + 0.007*que + 0.006*con + 0.005*del + 0.005*real"
+        ],
+        [
+            1,
+            "0.083*tom + 0.082*hank + 0.014*bridg + 0.014*spi + 0.010*spielberg + 0.010*steven + 0.010*que + 0.009*la + 0.008*nufrago + 0.008*movi"
+        ],
+        [
+            2,
+            "0.000*tom + 0.000*hank + 0.000*movi + 0.000*bridg + 0.000*actor + 0.000*america + 0.000*star + 0.000*spi + 0.000*favorit + 0.000*spielberg"
+        ],
+        [
+            3,
+            "0.028*tom + 0.028*hank + 0.018*star + 0.018*america + 0.017*movi + 0.017*favorit + 0.012*actor + 0.011*de + 0.008*2015 + 0.008*el"
+        ],
+        [
+            4,
+            "0.061*star + 0.034*2016 + 0.033*octob + 0.033*theatr + 0.028*america + 0.025*movi + 0.019*favorit + 0.019*hank + 0.018*tom + 0.014*actor"
+        ]
+    ],
+    "search_tomhardy.json": [
+        [
+            0,
+            "0.145*tom + 0.134*hardi + 0.082*legend + 0.076*dog + 0.073*rememb + 0.073*took + 0.073*premier + 0.010*ford + 0.010*amp + 0.010*workout"
+        ],
+        [
+            1,
+            "0.017*review + 0.016*actor + 0.015*film + 0.013*legend + 0.013*watch + 0.011*latest + 0.008*taboo + 0.007*share + 0.007*see + 0.007*movi"
+        ],
+        [
+            2,
+            "0.067*hardi + 0.067*tom + 0.033*one + 0.033*film + 0.033*two + 0.033*cgi + 0.032*oldschool + 0.032*trickeri + 0.031*perform + 0.031*tower"
+        ],
+        [
+            3,
+            "0.061*hardi + 0.060*tom + 0.059*problem + 0.058*open + 0.058*addict + 0.058*thing + 0.058*past + 0.058*save + 0.057*the + 0.049*th"
+        ],
+        [
+            4,
+            "0.097*tom + 0.096*hardi + 0.012*reven + 0.011*legend + 0.010*film + 0.010*watch + 0.008*oscar + 0.007*que + 0.007*actor + 0.006*dicaprio"
+        ]
+    ],
+    "search_willpoulter.json": [
+        [
+            0,
+            "0.025*birthday + 0.017*happi + 0.013*reven + 0.009*brad + 0.009*pitt + 0.009*actor + 0.008*con + 0.008*war + 0.008*aqu + 0.008*sport"
+        ],
+        [
+            1,
+            "0.111*poulter + 0.045*happi + 0.040*23 + 0.038*birthday + 0.019*galli + 0.015*bday + 0.015*o + 0.015*ano + 0.015*hoje + 0.014*nosso"
+        ],
+        [
+            2,
+            "0.071*poulter + 0.018*que + 0.015*un + 0.014*como + 0.014*te + 0.014*pued + 0.014*tener + 0.014*amigo + 0.014*pasar + 0.014*debe"
+        ],
+        [
+            3,
+            "0.102*poulter + 0.024*artist + 0.022*reven + 0.019*galli + 0.019*pari + 0.015*lanvin + 0.014*menswear + 0.013*final + 0.013*dicaprio + 0.013*season"
+        ],
+        [
+            4,
+            "0.063*poulter + 0.045*cast + 0.044*que + 0.044*me + 0.024*maze + 0.024*runner + 0.022*foto + 0.022*del + 0.022*vienen + 0.022*al"
+        ]
+    ]
+}
