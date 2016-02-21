@@ -1,0 +1,159 @@
+word <- read.csv('word.csv',sep=',')
+rev <- word[word$Movie=="Revenant",]
+spo <- word[word$Movie=="Spotlight",]
+revpos <- rev[rev$Sentiment=="Positive",]
+revneg <- rev[rev$Sentiment=="Negative",]
+spopos <- spo[spo$Sentiment=="Positive",]
+sponeg <- spo[spo$Sentiment=="Negative",]
+
+## Revenant positive
+revpos1=revpos[1:10,]
+ ### Count
+revpos1 <- transform(revpos1,
+                     Word = reorder(Word, order(Count, decreasing = TRUE)))
+revposplot <- ggplot(revpos1, aes(x=Word, y=Count)) + 
+  geom_bar(stat="identity", fill="#999999", colour="#999999") +
+  ggtitle("The Top 10 Frequent Words of the Positive Tweets of the Revenant") +
+  labs(y="Word count") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none") +
+  ylim(0,1600)
+ggsave("revpos_count.png", revposplot)
+
+ ### Proportion
+revpos1 <- transform(revpos1,
+                     Word = reorder(Word, order(Prop2, decreasing = TRUE)))
+revposplot <- ggplot(revpos1, aes(x=Word, y=Prop2)) + 
+  geom_bar(stat="identity", fill="#999999", colour="#999999") +
+  ggtitle("The Top 10 Frequent Words of the Positive Tweets of the Revenant") +
+  labs(y="Word proportion (Frequency/#Positive tweets)") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none")+
+  ylim(0,0.5)
+ggsave("revpos_prop.png", revposplot)
+
+## Spotlight positive
+spopos1=spopos[1:10,]
+### Count
+spopos1 <- transform(spopos1,
+                     Word = reorder(Word, order(Count, decreasing = TRUE)))
+spoposplot <- ggplot(spopos1, aes(x=Word, y=Count)) + 
+  geom_bar(stat="identity", fill="#FF9933", colour="#FF9933") +
+  ggtitle("The Top 10 Frequent Words of the Positive Tweets of the Spotlight") +
+  labs(y="Word count") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none")+
+  ylim(0,1600)
+ggsave("spopos_count.png", spoposplot)
+
+### Proportion
+spopos1 <- transform(spopos1,
+                     Word = reorder(Word, order(Prop2, decreasing = TRUE)))
+spoposplot <- ggplot(spopos1, aes(x=Word, y=Prop2)) + 
+  geom_bar(stat="identity", fill="#FF9933", colour="#FF9933") +
+  ggtitle("The Top 10 Frequent Words of the Positive Tweets of the Spotlight") +
+  labs(y="Word proportion (Frequency/#Positive tweets)") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none")+
+  ylim(0,0.5)
+ggsave("spopos_prop.png", spoposplot)
+
+## Revenant negative
+revneg1=revneg[1:10,]
+### Count
+revneg1 <- transform(revneg1,
+                     Word = reorder(Word, order(Count, decreasing = TRUE)))
+revnegplot <- ggplot(revneg1, aes(x=Word, y=Count)) + 
+  geom_bar(stat="identity", fill="#999999", colour="#999999") +
+  ggtitle("The Top 10 Frequent Words of the Negative Tweets of the Revenant") +
+  labs(y="Word count") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none")+
+  ylim(0,60)
+ggsave("revneg_count.png", revnegplot)
+
+### Proportion
+revneg1 <- transform(revneg1,
+                     Word = reorder(Word, order(Prop2, decreasing = TRUE)))
+revnegplot <- ggplot(revneg1, aes(x=Word, y=Prop2)) + 
+  geom_bar(stat="identity", fill="#999999", colour="#999999") +
+  ggtitle("The Top 10 Frequent Words of the Negative Tweets of the Revenant") +
+  labs(y="Word proportion (Frequency/#Negative tweets)") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none")+
+  ylim(0,0.3)
+ggsave("revneg_prop.png", revnegplot)
+
+## Spotlight negative
+sponeg1=sponeg[1:10,]
+### Count
+sponeg1 <- transform(sponeg1,
+                     Word = reorder(Word, order(Count, decreasing = TRUE)))
+sponegplot <-ggplot(sponeg1, aes(x=Word, y=Count)) + 
+  geom_bar(stat="identity", fill="#FF9933", colour="#FF9933") +
+  ggtitle("The Top 10 Frequent Words of the Negative Tweets of the Spotlight") +
+  labs(y="Word count") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none")+
+  ylim(0,60)
+ggsave("sponeg_count.png", sponegplot)
+
+### Proportion
+sponeg1 <- transform(sponeg1,
+                     Word = reorder(Word, order(Prop2, decreasing = TRUE)))
+sponegplot <- ggplot(sponeg1, aes(x=Word, y=Prop2)) + 
+  geom_bar(stat="identity", fill="#FF9933", colour="#FF9933") +
+  ggtitle("The Top 10 Frequent Words of the Negative Tweets of the Spotlight") +
+  labs(y="Word proportion (Frequency/#Negative tweets)") +
+  labs(x="Words") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15)) +
+  theme(legend.position="none")+
+  ylim(0,0.3)
+ggsave("sponeg_prop.png", sponegplot)
