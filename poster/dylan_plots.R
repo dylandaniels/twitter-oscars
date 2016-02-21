@@ -116,14 +116,16 @@ savePlot <- function (plotName, plotFun, width, height) {
   ggsave(filename=paste0(plotName, '.png'), plot=plotFun(), width=width, height=height)
 }
 
-defaultWidthInches <- 12
-defaultHeightInches <-8 
-savePlot('boxOfficeVsTweets', plotBoxOfficeVsTweets, defaultWidthInches, defaultHeightInches)
-savePlot('rtVsBoxOffice', plotRottenTomatoesVsBoxOffice, defaultWidthInches, defaultHeightInches)
-savePlot('rtVsTweets', plotRottenTomatoesVsTweets, defaultWidthInches, defaultHeightInches)
-savePlot('sentimentVsRt', plotSentimentVsRottenTomatoes, defaultWidthInches, defaultHeightInches)
-savePlot('sentimentVsBoxOffice', plotSentimentVsBoxOffice, defaultWidthInches, defaultHeightInches)
-savePlot('sentimentVsTweets', plotSentimentVsTweets, defaultWidthInches, defaultHeightInches)
+saveAllPlots <- function () {
+  defaultWidthInches <- 12
+  defaultHeightInches <-8 
+  savePlot('boxOfficeVsTweets', plotBoxOfficeVsTweets, defaultWidthInches, defaultHeightInches)
+  savePlot('rtVsBoxOffice', plotRottenTomatoesVsBoxOffice, defaultWidthInches, defaultHeightInches)
+  savePlot('rtVsTweets', plotRottenTomatoesVsTweets, defaultWidthInches, defaultHeightInches)
+  savePlot('sentimentVsRt', plotSentimentVsRottenTomatoes, defaultWidthInches, defaultHeightInches)
+  savePlot('sentimentVsBoxOffice', plotSentimentVsBoxOffice, defaultWidthInches, defaultHeightInches)
+  savePlot('sentimentVsTweets', plotSentimentVsTweets, defaultWidthInches, defaultHeightInches)
+}
 
 
 #plotBoxOfficeVsTweets()
