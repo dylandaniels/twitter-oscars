@@ -1,0 +1,42 @@
+movie.data3 <- as.vector(read.table('sentiment.csv',sep=',',
+                                    col.names=c("movie","Sentiment","score")))
+p=ggplot(movie.data3, aes(x=movie, y=score)) +
+  geom_bar(stat="identity", fill=rep(c("#006400","#FFCC33","#CC0000"),8)) +
+  scale_fill_hue(l=40) + 
+  ggtitle("Percentage of Positive, Neutral, Negative Tweets per Movie") +
+  labs(y="Percentage of tweets (%)") +
+  labs(x="Movie name") +
+  theme(plot.title = element_text(face="bold", size=25)) +
+  theme(axis.title = element_text(face="bold", size=20),
+        axis.text.x = element_text(colour="black", size=15),
+        axis.text.y = element_text(colour="black", size=15)) +
+  theme(legend.title=element_text(size=16))+
+  theme(legend.text=element_text(size=15))+
+  scale_x_discrete(labels=c("Mad Max","Revenant","Bridge of Spies","Room",
+                            "Martian","Brooklyn","Big Short","Spotlight"))
+
+# write a simple function to add footnote
+makeFootnote <- function(footnoteText =
+                           format(Sys.time(), "%d %b %Y"),
+                         size = .7, color = grey(.5))
+{
+  require(grid)
+  pushViewport(viewport())
+  grid.text(label = footnoteText ,
+            x = unit(1,"npc") - unit(2, "mm"),
+            y = unit(2, "mm"),
+            just = c("right", "bottom"),
+            gp = gpar(cex = size, col = color))
+  popViewport()
+}
+png("sentiment3.png", width = 641, height = 343)
+print(p)
+# call makeFootnote function to add footnote
+makeFootnote("Footnote", color = "black")
+dev.off()
+
+library(gridExtra)
+g <- arrangeGrob(p, 
+    sub = textGrob("Footnote: Sentiment scores are on a scale of -1 to 1.", 
+                                x = 0, hjust = -0.1, vjust=0.1, gp = gpar(fontface = "italic", fontsize = 15)))
+ggsave("sentiment_plot2.png", g)
