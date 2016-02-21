@@ -1,4 +1,5 @@
 library(ggplot2)
+library(scales)
 # NOTE: add last year's winner as horizontal line
 
 setwd('~/stat222/twitter')
@@ -128,6 +129,30 @@ plotRottenTomatoesVsBoxOffice <- function () {
   
 }
 
+plotRottenTomatoesVsSentimentWithBoxOfficeDotSizes <- function () {
+  ggplot(data=movieData, mapping=aes_string(x='Sentiment', y='rottenTomatoes', label='Name', 
+                                           size='boxOffice')) + 
+    geom_point(aes(color=c('1','2','3','4','5','6','7','8'))) +
+    scale_size('Box Office Earnings (USD)', range=c(5,15), guide='legend', labels=comma) +
+    scale_color_manual(values=
+                        c('1'=movie_colors[1],
+                        '2'=movie_colors[2],
+                       '3'=movie_colors[3],
+                       '4'=movie_colors[4],
+                       '5'=movie_colors[5],
+                       '6'=movie_colors[6],
+                       '7'=movie_colors[7],
+                       '8'=movie_colors[8]), guide=FALSE) +
+    ggtitle('Rotten Tomatoes Score vs. Sentiment Score') +
+    labs(x='Sentiment Score', y='Rotten Tomatoes Tomtometer Score') +
+    theme(axis.text=element_text(size=12),
+          axis.title=element_text(size=20,face="bold"),
+          title=element_text(size=20, face='bold'),
+          legend.title=element_text(size=14)) + 
+    geom_text(vjust=-1, hjust="inward", check_overlap=TRUE, color='black',
+              size = defaultTextLabelSize, nudge_y=0.0025)
+}
+
 savePlot <- function (plotName, plotFun, width, height) {
   setwd('~/stat222/twitter/poster/scatterplots')
   ggsave(filename=paste0(plotName, '.png'), plot=plotFun(), width=width, height=height)
@@ -142,7 +167,7 @@ saveAllPlots <- function () {
   savePlot('sentimentVsRt', plotSentimentVsRottenTomatoes, defaultWidthInches, defaultHeightInches)
   savePlot('sentimentVsBoxOffice', plotSentimentVsBoxOffice, defaultWidthInches, defaultHeightInches)
   savePlot('sentimentVsTweets', plotSentimentVsTweets, defaultWidthInches, defaultHeightInches)
-  
+  savePlot('rottenTomatoesVsSentimentWithBoxOfficeDots', plotRottenTomatoesVsSentimentWithBoxOfficeDotSizes, 14, 8)
 }
 
 #plotBoxOfficeVsTweets()
