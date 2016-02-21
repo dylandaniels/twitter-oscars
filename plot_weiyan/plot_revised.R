@@ -1,7 +1,7 @@
 library(ggplot2)
 # NOTE: add last year's winner as horizontal line
 
-setwd('~/Desktop/stat222/plot')
+setwd('~/stat222/twitter')
 tweetCounts <- read.csv('bestPictureTweetCounts.csv', header=FALSE)
 names(tweetCounts) <- c('count', 'Name')
 
@@ -129,19 +129,20 @@ plotRottenTomatoesVsBoxOffice <- function () {
 }
 
 savePlot <- function (plotName, plotFun, width, height) {
-  setwd('~/Desktop//stat222/plot_dylan/')
+  setwd('~/stat222/twitter/poster/scatterplots')
   ggsave(filename=paste0(plotName, '.png'), plot=plotFun(), width=width, height=height)
 }
 
-defaultWidthInches <- 12
-defaultHeightInches <-8 
-savePlot('boxOfficeVsTweets', plotBoxOfficeVsTweets, defaultWidthInches, defaultHeightInches)
-savePlot('rtVsBoxOffice', plotRottenTomatoesVsBoxOffice, defaultWidthInches, defaultHeightInches)
-savePlot('rtVsTweets', plotRottenTomatoesVsTweets, defaultWidthInches, defaultHeightInches)
-savePlot('sentimentVsRt', plotSentimentVsRottenTomatoes, defaultWidthInches, defaultHeightInches)
-savePlot('sentimentVsBoxOffice', plotSentimentVsBoxOffice, defaultWidthInches, defaultHeightInches)
-savePlot('sentimentVsTweets', plotSentimentVsTweets, defaultWidthInches, defaultHeightInches)
-
-plotRottenTomatoesVsTweets()
+saveAllPlots <- function () {
+  defaultWidthInches <- 12
+  defaultHeightInches <-8 
+  savePlot('boxOfficeVsTweets', plotBoxOfficeVsTweets, defaultWidthInches, defaultHeightInches)
+  savePlot('rtVsBoxOffice', plotRottenTomatoesVsBoxOffice, defaultWidthInches, defaultHeightInches)
+  savePlot('rtVsTweets', plotRottenTomatoesVsTweets, defaultWidthInches, defaultHeightInches)
+  savePlot('sentimentVsRt', plotSentimentVsRottenTomatoes, defaultWidthInches, defaultHeightInches)
+  savePlot('sentimentVsBoxOffice', plotSentimentVsBoxOffice, defaultWidthInches, defaultHeightInches)
+  savePlot('sentimentVsTweets', plotSentimentVsTweets, defaultWidthInches, defaultHeightInches)
+  
+}
 
 #plotBoxOfficeVsTweets()
